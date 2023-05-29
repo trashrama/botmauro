@@ -1,0 +1,1059 @@
+Nada mais forte na pele que arrepia do que dar a um jovem a oportunidade de transformar a sua vida… que pode transformar outras vidas.
+Isso deveria ser suficiente para que nenhuma política pública fosse pensada sem ter os jovens como norte. São eles os responsáveis pelo futuro… agora! Muitos jovens nas periferias das cidades e nas brenhas do sertão, perdidos em seus sonhos, ou sem sonhos, sem “lenços nem documentos”, só precisam de algo simples, tão simples que por vezes escapa a nós, “passados na casca do alho”: a oportunidade que liberta.
+Programa C-Jovem, lançado pela ex-governadora Izolda Cela, em abril de 2022, tem essa visão cidadã na capacitação em Tecnologia da Informação e Comunicação (TIC) de 100 mil jovens. Além da formação profissional, o jovem será motivado a apropriar-se de seu entorno social.
+O C-Jovem se apresenta como a democratização de linguagens que aumentam oportunidades profissionais do jovem, como a lógica, o empreendedorismo, a informática e o inglês cuja fluências nos jovens é notadamente desigual num Brasil extremamente desigual. Este projeto “made in Ceará”, acaba de ter financiamento aprovado pelo MCTI que já especula sua exportação para outros estados.
+Como idealizador do C-Jovem, convém reportar-me a 2007 quando Ricardo Liebmann e eu tivemos o privilégio de inaugurar sua primeira versão, o e-Jovem, com Mauricio Maia e Izolda Cela, então Secretários da Educação do Ceará. O e-Jovem nasceu impregnado do paradigma “Jovem ensinando (aprendendo) Jovem”, mantra do revolucionário projeto Pirambu Digital, em 2005, em parceria com meu saudoso Demócrito Dummar.
+Assim, além da geração de renda que a transversalidade da área de TIC acena, o C-Jovem se caracteriza pela magia da educação que acontece em sua plenitude ao se “tocar” na autoestima de um jovem. Isso, educar um jovem é simplesmente atiçar sua autoestima, pela prática, quando ele se sente útil ajudando, quando ele se sente capaz fazendo, quando ele se sente.
+O C-Jovem é um programa ousado de formação profissional, de cidadãos solidários, a oportunidade para que ele, o jovem, corra em busca de sua melhor versão.
+
+
+Transformação Digital não se faz dentro de quatro paredes! Urgi esta frase, recentemente, às margens da lagoa do Iate Clube numa entrevista animada pelo poeta e artista Totonho Laprovitera! Lembrei-me, de imediato, do que eu tinha dito ao saudoso Chico Bilas, lá nas beiradas dos anos 90, quando instalávamos no Diário do Nordeste a segunda página web em um jornal no Brasil. Alertava ao Bilas, ainda no século passado quando a internet era um fusquinha, que ela poderia se tornar uma ferramenta de desigualdade social.
+Ideologias à parte (ou não) a verdade é que neste filme de mocinhos do cotidiano a internet tem sido agente duplo, jogando pesado em países subdesenvolvidos que tem a economia baseada em commodities a favor dos conglomerados high-techs que vendem a preço de milhares de bananas suas minúsculas rapaduras eletrônicas.
+A “vibe” agora é Transformação Digital, como se ela não tivesse se iniciado no após guerra pelo modelo, vigente ainda hoje em nossos notebooks, do fantástico Von Neumann ao implementar a máquina do genial Alan Turing, desenhada em um guardanapo, depois de um Bourbon duplo, escondido de homofóbicos na penumbra de algum bar londrino.
+Transformação Digital se apresenta tão tranquila quanto um cego em tiroteio num culto do Dataismo, religião preconizada por Yuval Harari sobre a entrega de nossa autonomia à Google, Waze e ao escambau digital. Nele, quem tem olho, computador e banda larga namora a filha do rei!
+Neste mundo de Harari, o abismo digital tem aprofundado, e de forma exponencial em alguns países, o apartheid social reinante e que coloca em xeque a sensatez de nossa trajetória Sapiens, ao deitamos um clique na África e em nossas favelas urbanas.
+A dialética a que se presta a tecnologia não é privilégio da internet, já nos provou Oppenheimer à revelia de Einstein. Não será diferente com o novo mantra Transformação Digital. Precisamos ficar atentos ao vermos políticas públicas de Transformação Digital sendo anunciadas com visões conservadoras com combustíveis clássicos, tidas como fenômeno de geração espontânea.
+Uma luz no final do túnel nesta direção é a da Governadora Izolda Cela que nos brindou  com o Decreto sobre a Transição Energética do Estado. O Governo do Ceará se prepara para era digital em dois caminhos iniciais: o serviço ao cidadão, o principal, e o atendimento e integração na estrutura de suporte ao cidadão (secretarias, órgãos e Vinculadas da administração direta e indireta).
+Para além dessa fronteira, a promoção da cultura da Transformação Digital é um dos pilares em favor da sociedade, encontrando do analfabetismo digital à conversão no emprego formal em plataformas digitais a real transformação.
+Importante colocar em primeiro lugar a maioria da população que participará da transformação digital e nunca vai compreender as tecnologias diretas ou embarcadas nos transportes e infraestruturas em geral, na educação, na saúde, na segurança pública e em todas as atividades da vida humana, fauna e flora, doravante sujeitos a transformação digital, inclusive para os desafios e impactos das mudanças climáticas.
+O IRACEMA Digital está construindo uma proposta com sugestões na perspectiva de colaborar com o Estado na Transformação Digital Humana. Para tanto, o IRACEMA Digital fez uma consulta pública com seus participantes e parceiros. Seu Presidente, Ricardo Liebmann, reforça a tese de que o objetivo maior da proposta deveria ser “Reduzir as desigualdades sociais através da Transformação Digital”.
+Nesse arcabouço ampliado: reduzir o custo dos Governos aumentando a qualidade dos serviços aos cidadãos, melhorar o acesso a educação, a saúde, aos serviços sociais, encontrar a empregabilidade, transparência pública, proteger o meio ambiente, dar mais segurança são objetivos de uma Transformação Digital cidadã, diz Liebmann: “se não for para isso, não tem motivo de ser”.
+
+Demitri Túlio, jornalista “Das Antigas”, e Karlos Ribeiro me pregaram um susto em 07/julho/2008. Ao ser entrevistado por essa dupla dinâmica d´O POVO, bradei na saída: Demi, esse negócio é “Algo melhor que a refinaria”! Este brado, título da entrevista, retumbou como um delírio a olhos conservadores!
+Mas não era! Eu me referia ao Dragão Digital, um projeto em que o Cinturão Digital de Cid Gomes, em construção pelo engenhoso Fernando Carvalho, seria a estrada para uma ruma de softwares produzidos pelo projeto e-JOVEM sendo implementado por Fabrício Paia.
+O Dragão Digital via uma central de inteligência no prédio do Cine São Luiz (ameaçado de compra por uma igreja de duvidosa reputação) onde empresas e “startups” (neologismo trazido pelo “Carioca da Peste” Análio Rodrigues, da Finep) se articulariam com milhares de jovens produzindo software em todas as brenhas do Ceará, com apoio do IFCE e universidades.
+Não era pra menos! Havia em 2008, segundo o Gartner Group, um mercado offshore de software de US$ 35 bilhões crescendo a 20% ao ano, dominado pela Índia (48%). O Brasil figurava em 15º lugar.
+Algo melhor que a refinaria, argumentava aos infiéis, seria a formação massiva de programadores para um futuro onde “dados seriam mais caros do que petróleo”. Perdemos esse primeiro bonde selado, mas não perdemos a guerra… nem a garra!
+“2022, o ano que aconteceu” tem sido o mantra do IRACEMA Digital e nos impulsa a reavaliar o que realmente é POP e TECH. Geração de renda com software pelo jovem é uma arma poderosa na guerra que estamos silenciosamente perdendo: as drogas estão “perscrutando e convocando” nossos jovens de fora da Aldeia Aldeota.
+Mas eis que repente, a formação profissional e cidadã de 100 mil jovens, Projeto C-JOVEM, uma repaginação moderna do e-JOVEM, entra no ideário, na alma e na caneta de quem tem o destino social, cultural e econômico de nosso Estado. O C-JOVEM foi lançado no dia 18 de abril de 2022, uma segunda qualquer no calendário gregoriano que poderá ser citado no futuro por esses 100 mil jovens, já com o manche do seu Estado.
+Eles dirão neste futuro, aos novos jovens, que a Professora Governadora percebeu “2022, como o ano para acontecer”. Dirão que a Professora compreendeu fácil que havia “Algo maior que a refinaria” e que a Governadora, para tanto, “deu o máximo de si… é o melhor que o homem pode fazer na vida” (Cervantes in Dom Quixote).
+
+Somente hoje, mulheres nos computadores no Iracema Digital!
+
+É a primeira turma que eu mostro o rádio do meu pai.
+
+Era a primeira aula e mostrei o rádio do meu pai.
+
+Sensacional esse rádio do meu pai com Transistores.
+
+Relembro-me do rádio do meu pai com Transistores! Que saudades!
+
+Vai um azulzinho aí?
+
+Veremos aqui circuitos NAND, NOR, XOR! Dicas!
+
+“Navegar é preciso… criar um Ecossistema de TIC no Ceará parece que não é! Nos falta uma “vitrine” do que temos, somos e sabemos na área de TIC! A falta dessa “vitrine” tem resultado em perda de negócios além de levar muitos empresários e gestores a pegar o corujão da VASP no Cocorote em busca de soluções no Sul Maravilha da VARIG! Mal sabem eles que bem ali, lá acola, tem startups do Rapadura Valley, nos Hubs do Cumbuco e do NINNA com soluções mais em conta e de qualidade superior, com suporte de cientistas de nossas universidades.
+Um Ecossistema teria a missão de fazer um “tinder” entre os produtores e consumidores, e entre os próprios atores de TIC no Ceará! Isso mesmo, um “TINDER”! Seria também uma estratégia para estancar a sangria de cérebros e reeducar nossos consumidores imersos na velha cultura, vinda dos cafundós, de valorizar mais o que vem lá de fora; já reclamava o Chico de Maranguape.
+Tão óbvio quanto a necessidade de um Ecossistema de TIC é a formação massiva de profissionais nesta área que, todos sabem, emprega rápido (todos meus alunos de computação geram renda antes de se formarem) e tem como principal insumo o raciocínio lógico (farto na cucuruta cearense), além de não depender de parafernálias caras para quem resolver ser um freelancer.
+Mas de repente, eis que chega “2022, o ano que aconteceu”! Nada mais forte na pele que arrepia do que dar ao jovem a oportunidade de transformar a sua vida… que transforma outras vidas. Sim, o lançamento do Programa C-Jovem pela Governadora Izolda Cela, nesta segunda-feira, tem essa missão focada em 100 mil jovens. Além da formação profissional, o jovem será motivado a apropriar-se de seu entorno social, assumir cedo a inevitável liderança de seu futuro.
+Esse é o C-Jovem, a política do óbvio sendo posta em prática!
+MAURO OLIVEIRA, Professor IFCE
+
+2032! Estamos em plena segunda-feira, no futuro. O mundo imaginado no filme Upload, diferente dos Jetsons, é ainda uma ficção, adiada que foi para uma próxima temporada. Nele, a “Lakeview”, empresa de pós vida digital, negocia a vida eterna com quem pode pagar, uma espécie de reload high tech do que foi praticado por alguns clérigos monetaristas na idade média, em “nome do Senhor”, é claro!
+Seguem algumas manchetes do dia 04 de abril de 2032:
+ORA BUSINESS: as criptomoedas adotadas por todos os países, exceto a China (que ainda insiste em tudo futricar), têm sua hegemonia no mercado financeiro ocidental ameaçada pelos METAhackers. Estes cabras da peste digitais conseguiram burlar as tabelas hash (o segredo do blockchain) com computadores quânticos, deixando em pavorosa os hubs de inovação, exceto os precavidos executivos kitesurfistas na Cumbuco Wall Street (comunidade liderada pelo guru Rômulo Soares)  
+NEM TUDO É DIVERSÃO: o Carnaval no Metaverso da Sapucaí será adiado. Visto no passado como uma alternativa ao controle da COVID 19, as “aglomerações” no metaverso preocupam cada vez mais os psicólogos pelo número de “suicídios virtuais” (um tipo de covardia lacaniana) entre usuários embriagados nessa cachaça digital. A empresa BUGABOO, líder mundial em metaverso, discorda e deverá recorrer ao recém criado STM (Supremo Tribunal Metavérsico), é o que diz Tiago Guimaraes, CEO da empresa e sócio majoritário da Amazon.
+EM SOCIEDADE TUDO SE SABE: o ex-idoso Elon Musk cancela sua lua de mel em Maracanmarte, sua ilha construída no planeta vermelho. A decisão deve-se ao estresse no fracasso de sua empresa “Lakeview”. Perguntada pelo IRACEMA News, sua esposa declarou cantando: “Eu vou pra Maracanmarte, Eu vou”. Segundo ela, na vida “foquete não tem ré”!
+Mas é claro, temos boas notícias em 04 de abril de 2032:
+TURISMO: O Palácio da Inovação (antigo Palácio da Abolição) e o Museu da Imagem e do Som, o “quartier high tech” de Fortaleza, supera em visitantes o Metropolitan de New York. Além de Chico Gomes, expõem Marcos Vieira, Claudia Sampaio, Totonho Laprovitera, Carlinhos Decimo, Érica Peron e Mano Alencar.
+ECONOMIA: O Ceará bate seu próprio recorde liderando no Brasil a produção de Hidrogênio Verde carbono zero: obtido sem emissão de CO2. Júlio Cavalcante, CEO da “Verde que te Quero Verde S.A”, lembra que já em 2022 o Estado chegou a produzir 500 mil toneladas, exportando pelos portos do Pecém e de Roterdã, parceiros comerciais.
+EDUCAÇÃO: O modelo educacional de Sobral, reconhecido internacionalmente há mais de uma década, é finalmente adotado pelo MEC e universalizado em todos os municípios do Brasil.
+JOVENS: A partir de uma política de profissionalização massiva e inovadora (computação & filosofia) de jovens, em uma década o Ceará construiu o maior Ecossistema de TIC do país. Segundo Célio Fernando, esse modelo é o principal impactador do crescimento do PIB cearense, o terceiro do país.
+Em entrevista para a Fortune, Ricardo Liebmann, presidente do “IRACEMA Venture Builder” explicou que o sucesso social e econômico do Ceará na última década, premiado pela UNESCO, deve-se a prática de uma “política do óbvio” dando ao jovem o direito de Ser Jovem, C-JOVEM. Liebmann finaliza que tudo começou devido a … “2022, o ano que aconteceu”!
+
+
+
+São cinco da matina! Meu Patek Philippe me acorda, estridentemente, para mais um milagre da vida. Taco-lhe a mão para acalmá-lo, como nos filmes da Paramount, sem resultado. Esqueço que no século da Lulu, minha neta, tudo agora obedece a um toque na tela de uma “rapadura eletrônica”.
+Pego minha Caloi e desço no rumo da venta na nossa “Miami Beach”, que alguns “nerds dorminhocos” recusam a decifrar. Eita que coisa mais linda esse pedaço de Meireles! Ah, somos sobreviventes! (Sobreviventes de uma tragédia anunciada! Quinhentos mil neste país deixaram de pedalar sua Monark, conversar, rir… coisas simples assim. Três mil Boings 737 lotados “viajaram pra outra instância” sem nossa permissão. Seria “trágico se não fosse trágico”.)
+Chego nas cercanias da praia do Náutico. De repente, sou invadido por uma vontade de cantar: “Here Comes the Sun”, o hit preferido da Lulu. Recepcionado pelo Leo, sorriso largo e um coco à mão dormido no gelo, percebo-me privilegiado neste Planeta Azul Marinho onde acontece a maior (talvez única) miscigenação social da cidade de Iracema. Naquela areia, apenas homines sapientes felizes. Pergunto-me “a mim mesmo” (com permissão do Prof. Alvaro Maia): por que o Planeta Azul não é todo assim!
+Nesse caos organizado e saudável, o sol como testemunha, veem-se banhistas felizes, nadadores falantes, vendedores solícitos. Há décadas, Prof. Facundo, o Netuno do Náutico, me repete a mesma frase: “hoje o mar tá uma delícia, melhor do que ontem”.
+O Planeta Azul Marinho parece desdenhar dos arranha-céus do outro lado da rua com seus hectares e heliportos, medalhas de ouro em desigualdade social. Melhor ainda, é como se o lado de lá da rua não fosse visível do lado de cá.
+“Here comes the sun” no Planeta Azul Marinho. Pode-se respirar nele todo dia. Afinal, a vida é uma escolha a cada momento!
+
+A SINGULARIDADE DIALÉTICA DE UM MESTRE
+Uma coisa era certa! A gente sabia logo quando ele chegava no SBRC. Uma gargalhada de causar inveja ao Coringa ecoava nos corredores revelando o estilo inconfundível do grandalhão gargalhante, debochado, inteligente, que fazia rir seus alunos com piadas manjadas enquanto os fazia “capitães de suas almas, donos de seus destinos”.
+Conheci-o nas brenhas do LARC e do SBRC, lá nos cafundós dos anos 80. Mas o conheci bem melhor pelos meus dois filhos que contavam da “odisseia” de seus mestrados, das aventuras inesperadas que seu orientador aprontava diariamente no laboratório, um cigarro à mão e a outra na barba como se alargasse seu sorriso farto.
+“Da manga rosa quero o gosto e o sumo…” Não era cantor mas cantava, ria de qualquer piada, em especial das dele… kkkk. Guy Pujolle, nosso amigo e orientador em comum, apaixonou-se rápido pelo grandalhão gargalhante, mais inteligente que debochado, que o convenceria a desfilar (à lá française), na Sapucaí.
+Como não agradecer e abraçar esse grandalhão gargalhante que fez por meus dois filhos tanto  em tão pouco tempo. Deles continuo ouvindo o mantra: “o que somos tem a marca de sua orientação”. Ele tentava tirar o máximo de seus “meninos e meninas” … chicoteando-os com deadlines e qualis, assoprando com uma rodada de pizza na madrugada das sexta-feira, o day off autorizado.
+E o fazia por todos ao alcance de seu invejável magnetismo que, entre uma Orientação com Amor ou Orientação com Dor (taxonomia criada por ele), optaram pela última, tendo como resultado uma impecável formação acadêmica, além de aprenderem a não “coçar as partes” nas apresentações, a não “mijarem fora do pinico” nas defesas … kkkk !
+Procurei uma forma para definir a singularidade dialética desse “Carioca de Morais … que passou por essa vida e viveu”: um cientista da computação que “podia usar Lycra”… kkkkk!
+Muitos não entenderão, só seus alunos! E isso lhe bastará …   Ah! Ele vai dar uma gostosa gargalhada, uma tragada, e cantar … “melão maduro, sapoti, juá! Jabuticaba teu olhar noturno…!”.
+
+Ai! Me alembro tanto seu menino,que dá uma dor danada de dor:a “negrada” no alpendre da Casa de Farinha,esperando uma luzinha entre coqueiros!
+E ele que não chegava na sua rural…a “mundiça” não podia ver uma luz,qualquer luzinha entre coqueiros…a “canáia” gritava logo: “lá rem ele”!
+Era uma correria desenfreada alpendre abaixo.Ah! Como a gente adorava a enganação.Mais uma luzinha que vinha…e se perdia,e com ela a esperança dele chegar cedo.
+Lembro tio Manezin, touca na cabeça, camisolão,lamparina na mão, alpercata de rabicho, chão batido,(os óio franzido por detrás dos óculos de garrafa)berrava sem convicção, enquanto também espiavamais uma luzinha que aparecia entre coqueiros:“rão dromir magote. Ele só chega menhan de menhan”!
+Ai! Me alembro tanto seu menino,que dá uma dor danada de dor.Entre grilos, cururus, vagalumes…
+O tempo parou naquele 24 de dezembro:na minha mente só havia uma luzinha,a promessa de presentes, zoada, galinha assada…que desaparecia entre coqueiros!
+Uma luzinha trazendo sobretudo um cheiro,cheiro de suor, suor do peito, da camisa,camisa empoeirada da estrada carroçal,um cheiro gostoso de bom!O cheiro de papai!
+ACORDA TODO MUNDO!… PAPAI CHEGOOOOOOOOOOOUUU !!!
+
+No livro “Escola Pra Valer”, edição esgotada (amigos & família… rsrsrs), editado pela BARCA (Bodega das Artes Facundo de Chiquinha de arac*ti), respondo à pergunta que deveria estar no concurso de todo professor ou agente educacional: Cara, qual a principal missão de uma Escola?
+Sem rebuscar filósofos de carteirinha nem pedagogos de plantão, qual a sua resposta? O “Escola Pra Valer” acredita que a principal missão de uma Escola é ajudar o jovem a ser feliz! Matemática, Português, Artes, e outras invencionices humanas são mecanismos indispensáveis, but not most important, para se alcançar essa missão maior da Escola.
+Ajudar o jovem a ser feliz é despertá-lo para outras verdades além daquelas que encruaram em seu córtex; é convencê-lo a fazer suas próprias escolhas e a não desistir de seus sonhos, apesar das “pedras no meio do caminho”. Afinal, o hoje é marcado pelo que Yuval Harari chama de “fonte da suprema autoridade humana”, em que as decisões sobre nosso destino são nossas, não vêm mais de outrem nem dos céus, como no passado. “Pensar por si próprio”, este é o mantra para o jovem se assumir como “Capitão da sua alma, Senhor do seu destino” (Henley, in Invictus)!
+Ajudar o jovem a ser feliz é levá-lo a se apropriar de seu entrono social, já que uma “Escola que é reflexo da sociedade não serve a ela, nem pra ela”. É mostrar-lhe o quanto é genial, poderoso e mágico ser ousado em melhorar a sociedade, porque a “ousadia tem genialidade, poder e magia” (Goethe).
+Daí ser incompatível com uma “Escola Pra Valer” o péssimo exemplo que temos dado, IFs e universidades, nos vendavais dos processos eleitorais internos, em que se comete um pecado capital educativo: “irmão desconhece irmão”. Ao invés de uma aula de democracia, ensaia-se uma barbárie pedagógica com práticas “eleitoreiras” de fazer corar Odorico Paraguaçu de Sucupira (Dias Gomes, in O Bem Amado).    
+O mais trágico, se não fosse “cômodo”, é o “day after” quando “trompeurs” sem compromissos deixam suas campanhas nos “corredores” (hoje, virtuais) e voltam à sala de aula com bravatas éticas sem se dar conta do seu espelho que adverte: não faça mais isso, menino danado! Esquece o meliante sem paixão que o “aluno nos observa mais pelo que fazemos do que pelo que dizemos” (In Escola Pra Valer). Não se educa pra ser feliz sem compromisso e paixão!
+É, portanto, lamentável que instituições centenárias, importantes e decisivas nas vidas de muitos jovens sejam vitimadas pela velha políticagem provinciana de poucos que (tentam) desvirtuam o sonho, sempre em construção, de uma “Escola Pra Valer”. ()
+Ah! E quanto aos amantes? Nada a ver… Não é público!
+
+Nada mais forte na pele que arrepia do que dar a um jovem a oportunidade de transformar a sua vida… que pode transformar outras vidas.
+Isso deveria ser suficiente para que nenhuma política pública fosse pensada sem ter os jovens como norte. São eles os responsáveis pelo futuro… agora! Muitos jovens nas periferias das cidades e nas brenhas do sertão, perdidos em seus sonhos, ou sem sonhos, sem “lenços nem documentos”, só precisam de algo simples, tão simples que por vezes escapa a nós, “passados na casca do alho”: a oportunidade que liberta.
+Programa C-Jovem, lançado pela ex-governadora Izolda Cela, em abril de 2022, tem essa visão cidadã na capacitação em Tecnologia da Informação e Comunicação (TIC) de 100 mil jovens. Além da formação profissional, o jovem será motivado a apropriar-se de seu entorno social.
+O C-Jovem se apresenta como a democratização de linguagens que aumentam oportunidades profissionais do jovem, como a lógica, o empreendedorismo, a informática e o inglês cuja fluências nos jovens é notadamente desigual num Brasil extremamente desigual. Este projeto “made in Ceará”, acaba de ter financiamento aprovado pelo MCTI que já especula sua exportação para outros estados.
+Como idealizador do C-Jovem, convém reportar-me a 2007 quando Ricardo Liebmann e eu tivemos o privilégio de inaugurar sua primeira versão, o e-Jovem, com Mauricio Maia e Izolda Cela, então Secretários da Educação do Ceará. O e-Jovem nasceu impregnado do paradigma “Jovem ensinando (aprendendo) Jovem”, mantra do revolucionário projeto Pirambu Digital, em 2005, em parceria com meu saudoso Demócrito Dummar.
+Assim, além da geração de renda que a transversalidade da área de TIC acena, o C-Jovem se caracteriza pela magia da educação que acontece em sua plenitude ao se “tocar” na autoestima de um jovem. Isso, educar um jovem é simplesmente atiçar sua autoestima, pela prática, quando ele se sente útil ajudando, quando ele se sente capaz fazendo, quando ele se sente.
+O C-Jovem é um programa ousado de formação profissional, de cidadãos solidários, a oportunidade para que ele, o jovem, corra em busca de sua melhor versão.
+
+
+Transformação Digital não se faz dentro de quatro paredes! Urgi esta frase, recentemente, às margens da lagoa do Iate Clube numa entrevista animada pelo poeta e artista Totonho Laprovitera! Lembrei-me, de imediato, do que eu tinha dito ao saudoso Chico Bilas, lá nas beiradas dos anos 90, quando instalávamos no Diário do Nordeste a segunda página web em um jornal no Brasil. Alertava ao Bilas, ainda no século passado quando a internet era um fusquinha, que ela poderia se tornar uma ferramenta de desigualdade social.
+Ideologias à parte (ou não) a verdade é que neste filme de mocinhos do cotidiano a internet tem sido agente duplo, jogando pesado em países subdesenvolvidos que tem a economia baseada em commodities a favor dos conglomerados high-techs que vendem a preço de milhares de bananas suas minúsculas rapaduras eletrônicas.
+A “vibe” agora é Transformação Digital, como se ela não tivesse se iniciado no após guerra pelo modelo, vigente ainda hoje em nossos notebooks, do fantástico Von Neumann ao implementar a máquina do genial Alan Turing, desenhada em um guardanapo, depois de um Bourbon duplo, escondido de homofóbicos na penumbra de algum bar londrino.
+Transformação Digital se apresenta tão tranquila quanto um cego em tiroteio num culto do Dataismo, religião preconizada por Yuval Harari sobre a entrega de nossa autonomia à Google, Waze e ao escambau digital. Nele, quem tem olho, computador e banda larga namora a filha do rei!
+Neste mundo de Harari, o abismo digital tem aprofundado, e de forma exponencial em alguns países, o apartheid social reinante e que coloca em xeque a sensatez de nossa trajetória Sapiens, ao deitamos um clique na África e em nossas favelas urbanas.
+A dialética a que se presta a tecnologia não é privilégio da internet, já nos provou Oppenheimer à revelia de Einstein. Não será diferente com o novo mantra Transformação Digital. Precisamos ficar atentos ao vermos políticas públicas de Transformação Digital sendo anunciadas com visões conservadoras com combustíveis clássicos, tidas como fenômeno de geração espontânea.
+Uma luz no final do túnel nesta direção é a da Governadora Izolda Cela que nos brindou  com o Decreto sobre a Transição Energética do Estado. O Governo do Ceará se prepara para era digital em dois caminhos iniciais: o serviço ao cidadão, o principal, e o atendimento e integração na estrutura de suporte ao cidadão (secretarias, órgãos e Vinculadas da administração direta e indireta).
+Para além dessa fronteira, a promoção da cultura da Transformação Digital é um dos pilares em favor da sociedade, encontrando do analfabetismo digital à conversão no emprego formal em plataformas digitais a real transformação.
+Importante colocar em primeiro lugar a maioria da população que participará da transformação digital e nunca vai compreender as tecnologias diretas ou embarcadas nos transportes e infraestruturas em geral, na educação, na saúde, na segurança pública e em todas as atividades da vida humana, fauna e flora, doravante sujeitos a transformação digital, inclusive para os desafios e impactos das mudanças climáticas.
+O IRACEMA Digital está construindo uma proposta com sugestões na perspectiva de colaborar com o Estado na Transformação Digital Humana. Para tanto, o IRACEMA Digital fez uma consulta pública com seus participantes e parceiros. Seu Presidente, Ricardo Liebmann, reforça a tese de que o objetivo maior da proposta deveria ser “Reduzir as desigualdades sociais através da Transformação Digital”.
+Nesse arcabouço ampliado: reduzir o custo dos Governos aumentando a qualidade dos serviços aos cidadãos, melhorar o acesso a educação, a saúde, aos serviços sociais, encontrar a empregabilidade, transparência pública, proteger o meio ambiente, dar mais segurança são objetivos de uma Transformação Digital cidadã, diz Liebmann: “se não for para isso, não tem motivo de ser”.
+
+Demitri Túlio, jornalista “Das Antigas”, e Karlos Ribeiro me pregaram um susto em 07/julho/2008. Ao ser entrevistado por essa dupla dinâmica d´O POVO, bradei na saída: Demi, esse negócio é “Algo melhor que a refinaria”! Este brado, título da entrevista, retumbou como um delírio a olhos conservadores!
+Mas não era! Eu me referia ao Dragão Digital, um projeto em que o Cinturão Digital de Cid Gomes, em construção pelo engenhoso Fernando Carvalho, seria a estrada para uma ruma de softwares produzidos pelo projeto e-JOVEM sendo implementado por Fabrício Paia.
+O Dragão Digital via uma central de inteligência no prédio do Cine São Luiz (ameaçado de compra por uma igreja de duvidosa reputação) onde empresas e “startups” (neologismo trazido pelo “Carioca da Peste” Análio Rodrigues, da Finep) se articulariam com milhares de jovens produzindo software em todas as brenhas do Ceará, com apoio do IFCE e universidades.
+Não era pra menos! Havia em 2008, segundo o Gartner Group, um mercado offshore de software de US$ 35 bilhões crescendo a 20% ao ano, dominado pela Índia (48%). O Brasil figurava em 15º lugar.
+Algo melhor que a refinaria, argumentava aos infiéis, seria a formação massiva de programadores para um futuro onde “dados seriam mais caros do que petróleo”. Perdemos esse primeiro bonde selado, mas não perdemos a guerra… nem a garra!
+“2022, o ano que aconteceu” tem sido o mantra do IRACEMA Digital e nos impulsa a reavaliar o que realmente é POP e TECH. Geração de renda com software pelo jovem é uma arma poderosa na guerra que estamos silenciosamente perdendo: as drogas estão “perscrutando e convocando” nossos jovens de fora da Aldeia Aldeota.
+Mas eis que repente, a formação profissional e cidadã de 100 mil jovens, Projeto C-JOVEM, uma repaginação moderna do e-JOVEM, entra no ideário, na alma e na caneta de quem tem o destino social, cultural e econômico de nosso Estado. O C-JOVEM foi lançado no dia 18 de abril de 2022, uma segunda qualquer no calendário gregoriano que poderá ser citado no futuro por esses 100 mil jovens, já com o manche do seu Estado.
+Eles dirão neste futuro, aos novos jovens, que a Professora Governadora percebeu “2022, como o ano para acontecer”. Dirão que a Professora compreendeu fácil que havia “Algo maior que a refinaria” e que a Governadora, para tanto, “deu o máximo de si… é o melhor que o homem pode fazer na vida” (Cervantes in Dom Quixote).
+
+
+“Navegar é preciso… criar um Ecossistema de TIC no Ceará parece que não é! Nos falta uma “vitrine” do que temos, somos e sabemos na área de TIC! A falta dessa “vitrine” tem resultado em perda de negócios além de levar muitos empresários e gestores a pegar o corujão da VASP no Cocorote em busca de soluções no Sul Maravilha da VARIG! Mal sabem eles que bem ali, lá acola, tem startups do Rapadura Valley, nos Hubs do Cumbuco e do NINNA com soluções mais em conta e de qualidade superior, com suporte de cientistas de nossas universidades.
+Um Ecossistema teria a missão de fazer um “tinder” entre os produtores e consumidores, e entre os próprios atores de TIC no Ceará! Isso mesmo, um “TINDER”! Seria também uma estratégia para estancar a sangria de cérebros e reeducar nossos consumidores imersos na velha cultura, vinda dos cafundós, de valorizar mais o que vem lá de fora; já reclamava o Chico de Maranguape.
+Tão óbvio quanto a necessidade de um Ecossistema de TIC é a formação massiva de profissionais nesta área que, todos sabem, emprega rápido (todos meus alunos de computação geram renda antes de se formarem) e tem como principal insumo o raciocínio lógico (farto na cucuruta cearense), além de não depender de parafernálias caras para quem resolver ser um freelancer.
+Mas de repente, eis que chega “2022, o ano que aconteceu”! Nada mais forte na pele que arrepia do que dar ao jovem a oportunidade de transformar a sua vida… que transforma outras vidas. Sim, o lançamento do Programa C-Jovem pela Governadora Izolda Cela, nesta segunda-feira, tem essa missão focada em 100 mil jovens. Além da formação profissional, o jovem será motivado a apropriar-se de seu entorno social, assumir cedo a inevitável liderança de seu futuro.
+Esse é o C-Jovem, a política do óbvio sendo posta em prática!
+MAURO OLIVEIRA, Professor IFCE
+
+2032! Estamos em plena segunda-feira, no futuro. O mundo imaginado no filme Upload, diferente dos Jetsons, é ainda uma ficção, adiada que foi para uma próxima temporada. Nele, a “Lakeview”, empresa de pós vida digital, negocia a vida eterna com quem pode pagar, uma espécie de reload high tech do que foi praticado por alguns clérigos monetaristas na idade média, em “nome do Senhor”, é claro!
+Seguem algumas manchetes do dia 04 de abril de 2032:
+ORA BUSINESS: as criptomoedas adotadas por todos os países, exceto a China (que ainda insiste em tudo futricar), têm sua hegemonia no mercado financeiro ocidental ameaçada pelos METAhackers. Estes cabras da peste digitais conseguiram burlar as tabelas hash (o segredo do blockchain) com computadores quânticos, deixando em pavorosa os hubs de inovação, exceto os precavidos executivos kitesurfistas na Cumbuco Wall Street (comunidade liderada pelo guru Rômulo Soares)  
+NEM TUDO É DIVERSÃO: o Carnaval no Metaverso da Sapucaí será adiado. Visto no passado como uma alternativa ao controle da COVID 19, as “aglomerações” no metaverso preocupam cada vez mais os psicólogos pelo número de “suicídios virtuais” (um tipo de covardia lacaniana) entre usuários embriagados nessa cachaça digital. A empresa BUGABOO, líder mundial em metaverso, discorda e deverá recorrer ao recém criado STM (Supremo Tribunal Metavérsico), é o que diz Tiago Guimaraes, CEO da empresa e sócio majoritário da Amazon.
+EM SOCIEDADE TUDO SE SABE: o ex-idoso Elon Musk cancela sua lua de mel em Maracanmarte, sua ilha construída no planeta vermelho. A decisão deve-se ao estresse no fracasso de sua empresa “Lakeview”. Perguntada pelo IRACEMA News, sua esposa declarou cantando: “Eu vou pra Maracanmarte, Eu vou”. Segundo ela, na vida “foquete não tem ré”!
+Mas é claro, temos boas notícias em 04 de abril de 2032:
+TURISMO: O Palácio da Inovação (antigo Palácio da Abolição) e o Museu da Imagem e do Som, o “quartier high tech” de Fortaleza, supera em visitantes o Metropolitan de New York. Além de Chico Gomes, expõem Marcos Vieira, Claudia Sampaio, Totonho Laprovitera, Carlinhos Decimo, Érica Peron e Mano Alencar.
+ECONOMIA: O Ceará bate seu próprio recorde liderando no Brasil a produção de Hidrogênio Verde carbono zero: obtido sem emissão de CO2. Júlio Cavalcante, CEO da “Verde que te Quero Verde S.A”, lembra que já em 2022 o Estado chegou a produzir 500 mil toneladas, exportando pelos portos do Pecém e de Roterdã, parceiros comerciais.
+EDUCAÇÃO: O modelo educacional de Sobral, reconhecido internacionalmente há mais de uma década, é finalmente adotado pelo MEC e universalizado em todos os municípios do Brasil.
+JOVENS: A partir de uma política de profissionalização massiva e inovadora (computação & filosofia) de jovens, em uma década o Ceará construiu o maior Ecossistema de TIC do país. Segundo Célio Fernando, esse modelo é o principal impactador do crescimento do PIB cearense, o terceiro do país.
+Em entrevista para a Fortune, Ricardo Liebmann, presidente do “IRACEMA Venture Builder” explicou que o sucesso social e econômico do Ceará na última década, premiado pela UNESCO, deve-se a prática de uma “política do óbvio” dando ao jovem o direito de Ser Jovem, C-JOVEM. Liebmann finaliza que tudo começou devido a … “2022, o ano que aconteceu”!
+
+São cinco da matina! Meu Patek Philippe me acorda, estridentemente, para mais um milagre da vida. Taco-lhe a mão para acalmá-lo, como nos filmes da Paramount, sem resultado. Esqueço que no século da Lulu, minha neta, tudo agora obedece a um toque na tela de uma “rapadura eletrônica”.
+Pego minha Caloi e desço no rumo da venta na nossa “Miami Beach”, que alguns “nerds dorminhocos” recusam a decifrar. Eita que coisa mais linda esse pedaço de Meireles! Ah, somos sobreviventes! (Sobreviventes de uma tragédia anunciada! Quinhentos mil neste país deixaram de pedalar sua Monark, conversar, rir… coisas simples assim. Três mil Boings 737 lotados “viajaram pra outra instância” sem nossa permissão. Seria “trágico se não fosse trágico”.)
+Chego nas cercanias da praia do Náutico. De repente, sou invadido por uma vontade de cantar: “Here Comes the Sun”, o hit preferido da Lulu. Recepcionado pelo Leo, sorriso largo e um coco à mão dormido no gelo, percebo-me privilegiado neste Planeta Azul Marinho onde acontece a maior (talvez única) miscigenação social da cidade de Iracema. Naquela areia, apenas homines sapientes felizes. Pergunto-me “a mim mesmo” (com permissão do Prof. Alvaro Maia): por que o Planeta Azul não é todo assim!
+Nesse caos organizado e saudável, o sol como testemunha, veem-se banhistas felizes, nadadores falantes, vendedores solícitos. Há décadas, Prof. Facundo, o Netuno do Náutico, me repete a mesma frase: “hoje o mar tá uma delícia, melhor do que ontem”.
+O Planeta Azul Marinho parece desdenhar dos arranha-céus do outro lado da rua com seus hectares e heliportos, medalhas de ouro em desigualdade social. Melhor ainda, é como se o lado de lá da rua não fosse visível do lado de cá.
+“Here comes the sun” no Planeta Azul Marinho. Pode-se respirar nele todo dia. Afinal, a vida é uma escolha a cada momento!
+
+A SINGULARIDADE DIALÉTICA DE UM MESTRE
+Uma coisa era certa! A gente sabia logo quando ele chegava no SBRC. Uma gargalhada de causar inveja ao Coringa ecoava nos corredores revelando o estilo inconfundível do grandalhão gargalhante, debochado, inteligente, que fazia rir seus alunos com piadas manjadas enquanto os fazia “capitães de suas almas, donos de seus destinos”.
+Conheci-o nas brenhas do LARC e do SBRC, lá nos cafundós dos anos 80. Mas o conheci bem melhor pelos meus dois filhos que contavam da “odisseia” de seus mestrados, das aventuras inesperadas que seu orientador aprontava diariamente no laboratório, um cigarro à mão e a outra na barba como se alargasse seu sorriso farto.
+“Da manga rosa quero o gosto e o sumo…” Não era cantor mas cantava, ria de qualquer piada, em especial das dele… kkkk. Guy Pujolle, nosso amigo e orientador em comum, apaixonou-se rápido pelo grandalhão gargalhante, mais inteligente que debochado, que o convenceria a desfilar (à lá française), na Sapucaí.
+Como não agradecer e abraçar esse grandalhão gargalhante que fez por meus dois filhos tanto  em tão pouco tempo. Deles continuo ouvindo o mantra: “o que somos tem a marca de sua orientação”. Ele tentava tirar o máximo de seus “meninos e meninas” … chicoteando-os com deadlines e qualis, assoprando com uma rodada de pizza na madrugada das sexta-feira, o day off autorizado.
+E o fazia por todos ao alcance de seu invejável magnetismo que, entre uma Orientação com Amor ou Orientação com Dor (taxonomia criada por ele), optaram pela última, tendo como resultado uma impecável formação acadêmica, além de aprenderem a não “coçar as partes” nas apresentações, a não “mijarem fora do pinico” nas defesas … kkkk !
+Procurei uma forma para definir a singularidade dialética desse “Carioca de Morais … que passou por essa vida e viveu”: um cientista da computação que “podia usar Lycra”… kkkkk!
+Muitos não entenderão, só seus alunos! E isso lhe bastará …   Ah! Ele vai dar uma gostosa gargalhada, uma tragada, e cantar … “melão maduro, sapoti, juá! Jabuticaba teu olhar noturno…!”.
+
+Ai! Me alembro tanto seu menino,que dá uma dor danada de dor:a “negrada” no alpendre da Casa de Farinha,esperando uma luzinha entre coqueiros!
+E ele que não chegava na sua rural…a “mundiça” não podia ver uma luz,qualquer luzinha entre coqueiros…a “canáia” gritava logo: “lá rem ele”!
+Era uma correria desenfreada alpendre abaixo.Ah! Como a gente adorava a enganação.Mais uma luzinha que vinha…e se perdia,e com ela a esperança dele chegar cedo.
+Lembro tio Manezin, touca na cabeça, camisolão,lamparina na mão, alpercata de rabicho, chão batido,(os óio franzido por detrás dos óculos de garrafa)berrava sem convicção, enquanto também espiavamais uma luzinha que aparecia entre coqueiros:“rão dromir magote. Ele só chega menhan de menhan”!
+Ai! Me alembro tanto seu menino,que dá uma dor danada de dor.Entre grilos, cururus, vagalumes…
+O tempo parou naquele 24 de dezembro:na minha mente só havia uma luzinha,a promessa de presentes, zoada, galinha assada…que desaparecia entre coqueiros!
+Uma luzinha trazendo sobretudo um cheiro,cheiro de suor, suor do peito, da camisa,camisa empoeirada da estrada carroçal,um cheiro gostoso de bom!O cheiro de papai!
+ACORDA TODO MUNDO!… PAPAI CHEGOOOOOOOOOOOUUU !!!
+
+No livro “Escola Pra Valer”, edição esgotada (amigos & família… rsrsrs), editado pela BARCA (Bodega das Artes Facundo de Chiquinha de Arac*ti), respondo à pergunta que deveria estar no concurso de todo professor ou agente educacional: Cara, qual a principal missão de uma Escola?
+Sem rebuscar filósofos de carteirinha nem pedagogos de plantão, qual a sua resposta? O “Escola Pra Valer” acredita que a principal missão de uma Escola é ajudar o jovem a ser feliz! Matemática, Português, Artes, e outras invencionices humanas são mecanismos indispensáveis, but not most important, para se alcançar essa missão maior da Escola.
+Ajudar o jovem a ser feliz é despertá-lo para outras verdades além daquelas que encruaram em seu córtex; é convencê-lo a fazer suas próprias escolhas e a não desistir de seus sonhos, apesar das “pedras no meio do caminho”. Afinal, o hoje é marcado pelo que Yuval Harari chama de “fonte da suprema autoridade humana”, em que as decisões sobre nosso destino são nossas, não vêm mais de outrem nem dos céus, como no passado. “Pensar por si próprio”, este é o mantra para o jovem se assumir como “Capitão da sua alma, Senhor do seu destino” (Henley, in Invictus)!
+Ajudar o jovem a ser feliz é levá-lo a se apropriar de seu entrono social, já que uma “Escola que é reflexo da sociedade não serve a ela, nem pra ela”. É mostrar-lhe o quanto é genial, poderoso e mágico ser ousado em melhorar a sociedade, porque a “ousadia tem genialidade, poder e magia” (Goethe).
+Daí ser incompatível com uma “Escola Pra Valer” o péssimo exemplo que temos dado, IFs e universidades, nos vendavais dos processos eleitorais internos, em que se comete um pecado capital educativo: “irmão desconhece irmão”. Ao invés de uma aula de democracia, ensaia-se uma barbárie pedagógica com práticas “eleitoreiras” de fazer corar Odorico Paraguaçu de Sucupira (Dias Gomes, in O Bem Amado).    
+O mais trágico, se não fosse “cômodo”, é o “day after” quando “trompeurs” sem compromissos deixam suas campanhas nos “corredores” (hoje, virtuais) e voltam à sala de aula com bravatas éticas sem se dar conta do seu espelho que adverte: não faça mais isso, menino danado! Esquece o meliante sem paixão que o “aluno nos observa mais pelo que fazemos do que pelo que dizemos” (In Escola Pra Valer). Não se educa pra ser feliz sem compromisso e paixão!
+É, portanto, lamentável que instituições centenárias, importantes e decisivas nas vidas de muitos jovens sejam vitimadas pela velha políticagem provinciana de poucos que (tentam) desvirtuam o sonho, sempre em construção, de uma “Escola Pra Valer”. ()
+Ah! E quanto aos amantes? Nada a ver… Não é público!
+
+Ah, se eu fosse milionário…!
+Como qualquer beradeiro dos anos 1970, tempo em que os jovens acreditavam numa
+política decente, comprei todos os discos LP (vinil) da MPB e dos Mestres. Desde
+então, o violino de Vivaldi e a sanfona de Seu Luiz, filho de Januário, me cutucam feito
+a espada mágica de Merlin em Excalibur.
+Vivaldi tem algo de inebriante. Abri minha última aula com “Inverno”, minha preferida,
+antes d´eu falar em bits e bytes. Um professor acaba levando à sala um pouco de sua
+alma momentânea. Afinal, a aula é uma arte que imita a vida… ou será o contrário?,
+diria Oscar Wilde!
+Perguntei a meus alunos o que fariam se fossem milionários. Já tava meio sorumbático
+com as respostas, até que o Nicodemos quebra a corrente, “o mundo sou eu”, e se
+lembra do Bill Gates. Em 2000, Gates deixa a Microsoft e cria uma Fundação que
+promove pesquisa sobre a aids e outros massacres aos irmãos da África. Em
+2006, Warren Buffett, outro mais rico do mundo, contribui com US$ 30
+bilhões, apoiando a Fundação do “concorrente”. No século 18, John Harvard lega a
+metade do seu patrimônio ao que viria a ser a primeira universidade americana.
+Por que no Brasil nossos bilionários não fazem parecido? Cultura, educação ou
+ganância? Basta reparar numa noite estrelada do Cosmos de Carl Segan e perceber
+que somos o “cocô do cavalo do bandido” na imensidão Láctea. Acumular, acumular,
+acumular… Diga aí, mah, algo mais besta do que morrer bilionário? Quem se livrou do
+“fogo dos infernos” e do negócio da “vida eterna” sabe bem: nada mais divino do que
+melhorar a vida do outro! Quem são os nossos Gates, Buffetts e Havards brasileiros… e
+os cearenses?
+Eu me faço esta pergunta sempre que um jovem esquelético limpa o vidro do meu
+fusquinha 4×4, esfomeado à cata de míseros centavos que, via de regra, costumamos
+negar com a empáfia de um dedo indicador feito limpador de para-brisa. Quantos
+destes jovens, “estrelas cadentes” imundas ao léu, seriam cidadãos de bem se a
+soberba bilionária os iluminasse, feito a magia de Vivaldi?
+Quanto custa a um bilionário dar ao jovem de rua a mesma oportunidade dada pela
+“Dama do Lago ao Rei Arthur”, sua nobreza, a chance divina de um jovem de rua
+retirar a espada cravada na pedra, sua dignidade!
+Ei, e você aí, o que faria se fosse milionário?
+
+Por Quem os LIVROS Dobram
+É fim de madrugada. A linha que separa o mar e o céu, lá longe onde a terra quebra, sustenta nuvens que saem de dentro do infinito. O sol matinal se anuncia um tanto apressado, como quem foge pela janela da amante. O frescor do vento alisa meus cabelos feito mãos de noiva à véspera. O cheiro de maresia à tarde me embriaga de paz, tal colo de mãe, dilatando meu sorriso Kolynos (Ah!). O som da maré é meu mantra preferido. Abro os olhos. O dégradé da noite revela-me amores esquecidos, enquanto jangadas solitárias espreitam, em vigília, a enseada violentada pelo neon dos bares do Mucuripe. Ora direis, Augusto Pontes: “Vida, vento, leva-me daqui”!
+Caminho pés na areia, encontro o casal de alemães e sua sacola de “mercantil” cheia do lixo deixado na praia pelos “contumazes”. Mais à frente, Mestre George me espera para uma prosa em sua jangada. Suas velas, prontas para o take off, explodem ao vento como a felicidade dentro de mim. De longe, Mestre George já me aponta para seu amigo Manolin: lá vem o professor! Fico impressionado com seu vigor ao levantar os troncos que rolam a jangada até o mar. Quanta coragem nos 5, 10, 40 km mar adentro! E quando a velhice não mais lhe permitir o peixe nosso de cada dia?
+Mestre George tem em grande conta todo professor, doutor, esse pessoal formado, que estuda, vive lendo… no palavreado dele. E nos elogia tanto que chego a ter… “pena de nós”. Não imagina que nós, “esse pessoal que estuda”, não temos um “mirréis” da sua coragem diária, que nós, sociedade letrada, somos vaidosos, egoístas e solidários nas pandemias… quando nos atingem. Que a nossa Escola tem se equivocado no Dever de Casa de melhorar a sociedade. Somos nós, “pessoal que vive lendo”, que damos suporte e legitimidade a esta sociedade desigual.
+Decidi contar ao Mestre George que nós, “esse pessoal formado”, não somos bem quem “o Imperador do Japão referenciaria”. Falhamos e não temos a humildade de reconhecer… a não ser que o mundo pare… INIMAGINÁVEL!
+Corri manhã seguinte, madrugada tarde, ao seu encalço, enquanto aparecia um arco-íris, ali, bem ali … na linha que separa o mar e o céu, lá longe onde a terra quebra, sustenta nuvens que saem de dentro do infinito. Mas … vejam só, ali, bem ali…! Uma multidão, agitada feito pinguins ansiosos, aguardava esperançosa seu barco que teimava em não chegar. Quis chorar a perda do Mestre George, mas me pareceu banal.
+Prometi-lhe, então, algo digno de sua saga no mar, sol fervente, feridas nas mãos, na luta diária contra Marlim. Prometi-me dizer aos meus alunos, em toda aula, que uma “Escola que é reflexo da sociedade não serve a ela,… nem pra ela” (In Escola Pra Valer).
+Um dia (se o mundo parar… INIMAGINÁVEL!) a sociedade vai compreender que o pescador e o homem simples que recolhe o nosso lixo merecem o destaque dos artistas famosos e jogadores de futebol nos noticiários… daquela TV.
+
+REFLEXÕES QUE VÊM DO MAR: Sobre a AUDÁCIA
+“A vida é a travessia de um rio. Meu filho, não a atravesse no porão do navio”. De repente, Jorjão, um zelador terceirizado do IFCE, entra tempestivamente na minha sala. com a AUDÁCIA de um pirata do bem ao saltar no convés. Dedo em riste, Jorjão decreta para meus alunos, enquanto os encara com um olhar de quem paga imposto: “vocês não podem sair dessa escola igual a vocês quando entraram nela. O Arac*ti precisa de vocês”. Numa atitude AUDAZ vinda de sua ALMA jovem, Jorjão diz com calma, sem medo, com empatia e resiliência para que serve uma Escola e mostra, na prática, de que pouco vale nossa inteligência… se escondida no porão do navio. (“Seja qual for o seu sonho, comece. A OUSADIA tem genialidade, poder e magia”).
+
+6) REFLEXÕES QUE VÊM DO MAR: Sobre Resiliência
+“Uma escola que é reflexo da sociedade não serve pra ela… nem a ela”. Com calma, sem medo, com paciência e empatia, sua ALMA jovem será capaz de melhorar a sociedade. Uma Escola Pra Valer poderá ajudá-lo a lidar com problemas novos, adaptar-se a mudanças, superar obstáculos, resistir à situações adversas, fortalecer sua “imunidade mental”, base para a resiliência emocional. Assim, quando você for tentado a mentir, a humilhar ou ser injusto, que sua ALMA Jovem, resiliente, honre sua Escola que o preparou para ser “dono de seu destino, capitão de sua alma” no mar aberto da vida! (Coração de estudante, há que se cuidar da vida, há que se cuidar do mundo...)
+>>> Dedico esse ensaio à Alaninha e Facundo Placebo, Presidente da SBC, ALMA jovem do tempo da RUI, a primeira rádio da internet <<<
+
+5 - REFLEXÕES QUE VÊM DO MAR: Sobre a ALMA jovem
+“Nunca diga aos jovens que os seus sonhos são impossíveis. Nada seria mais dramático e seria uma tragédia se eles acreditassem nisso”. Shakespeare e Gonzaguinha são ALMAs jovens, acreditam que a “vida devia ser bem melhor e será”. É preciso constante evolução, fruto da inquietação, pra se ter ALMA jovem. O inquieto, por não ter idade, compreende-se na transcendência do seu tempo. Ter ALMA jovem é melhor que ser jovem, é estar preparado pra se renovar, se começar, se começar de novo, … enfrentando desafios novos, como as ondas do mar  … com calma, sem medo, com paciência, com empatia… com a ALMA jovem … (“minha alma cheira a talco, como bumbum de bebê, de bebê…“)
+
+4 - REFLEXÕES QUE VÊM DO MAR: Sobre a EMPATIA
+“Não fostes tu, Sancho, mas eu mesmo quem tentou tirar o máximo de mim…É o melhor que o homem pode fazer na vida”. A vibe cognitiva de um Sancho afetivo leva Quixote de Cervantes a dizer-se, ao final de sua caminhada. Afinal, quem era o louco? Quem não o é… um pouco? Todos são normais em seus mundos loucos! Seria LOUCO alguém imaginar, dias depois do Carnaval, ser NORMAL todos preocupados com todos? Quem seria capaz de tamanha provocação, senão um virus embriagado, hein? Com calma, sem medo, com paciência e EMPATIA podemos ser espíritos livres, “Humano, Demasiado Humano”,… mais preparados, agora, para um novo Zepelin… (“o prefeito de joelhos, o bispo de olhos vermelhos, e o banqueiro com um milhão. Vai com ele, vai Geni…”)
+
+3 - REFLEXÕES QUE VÊM DO MAR: Sobre a PACIÊNCIA
+Quando as máscaras dentro de um avião caem, meio a uma turbulência, a voz do piloto é firme: “coloque a máscara primeiro em você”, independente de quem esteja ao lado! Porque só podemos ajudar o outro se estivermos bem e, se possível, …  com calma, sem medo, com paciência. Isso mesmo, com PACIÊNCIA, deixando o tempo passar. Posto que o tempo é apenas uma dimensão einsteiniana, o isolamento pode ser uma ilusão … continuamos conectados… (“mesmo quando tudo pede um pouco mais de calma, Até quando o corpo pede um pouco mais de alma, A vida não para”).
+
+2 - REFLEXÕES QUE VÊM DO MAR: Sobre o MEDO !
+Na estrada há o perigo do acidente, no mar a mordida do invisível tubarão, na rua pode cair o raio que parte! Viver é perigoso, já dizia Riobaldo! Mas o “perigo é ter medo”. Que o digam os homens e mulheres “De Branco” que avançam destemidamente na linha de frente encarando o medo, esse desconhecido que pode alertar ou paralisar… por que o “perigo é ser dominado pelo medo”!  Viva estes homens e mulheres do planeta “De Branco” sem MEDO… Viva uma vida sem medos…  “Morre o meu medo e isto não é segredo, Eu mando buscar outro lá no Piauí”
+
+1 - REFLEXÕES QUE VÊM DO MAR: Sobre a CALMA
+CALMA, tudo PASSA! … assim como as ondas do mar, tudo vem e vai! Algumas ondas a gente recebe peito aberto, rindo; outras arrebentam em nossas costas e continuamos firmes… de repente, vem uma onda grande, BEM grande, MUITO grande, dessas que a gente nunca viu… e nos assusta GRANDE, MUITO. Olhamos pra ela de frente, … e, mantendo a serenidade, a gente se abaixa, com humildade, pensativo, e deixa ela PASSAR! E ela passa… e nos reerguemos melhores, fortes… (” aquilo que não nos mata, só nos fortalece”).
+
+Fibonacci, o bugueiro e o vírus embriagado!
+Já reparou que muitos fenômenos da natureza têm formatos parecidos? Da concha do caramujo à formação da via láctea, das geniais de Da Vinci às grandes pirâmides percebe-se uma beleza numérica que obedece à sequência de Fibonacci. Trata-se de uma série infinita onde o número seguinte é a soma dos dois anteriores (1,1,2,3,5,8…) popularizada pelo italiano Leonardo Fibonacci, em 1220, na obra Liber Abaci.
+Fibonacci (re)entrou na minha vibe, recentemente, por ocasião da construção de um caramanchão em minha casa em Canoa Quebrada.  Quando olhei as estacas que seriam fixadas igualmente no muro, me deu um faniquito e gritei para o mestre carpinteiro: “Orlando, distribui as estacas na sequência de Fibonacci”. Seu Orlando me olhou de revestrés e rosnou: “Fiba o quê, dotô?”
+Esta maldade involuntária com o Orlando seria vingada didaticamente pelo destino. Ao receber meus bolsistas em casa, não só mostrei a eles as estacas Fibonaccianas como os desafiei a encontrar as distâncias entre elas que obedecessem a famosa e misteriosa sequência.
+Como profetizei, não ficaria impune nesta história. Ao sairmos, avistamos um Fiat atolado em areias velozes e furiosas. Era a nossa chance de escoteiro, a boa ação do dia! Mas não é “porque a velhinha está na esquina que ela quer atravessar a rua” (Fedro aos bolsistas de Platão)! À medida que retirávamos a areia ao redor do pneu, experimentando princípios de Física I (não aplicáveis a Fiat atolado), o carro preferido de Cesare Battisti ficava cada vez mais movediço (vixe Maria!).
+E o bugueiro? Do meio do nada ele aparece feito um He-man aloprado, no momento certo, antes daquela vaia silenciosa (e dolorosa) que alunos reservam para quando a aula fracassa. Como ele tinha a “força”, a primeira providência (sensata) dele foi retirar-me do comando da operação. A segunda foi fazer tudo ao contrário do que eu tinha feito: colocar areia embaixo do pneu, levantando o carro. A terceira foi me pedir para trazer uma tramela. Rosnei na hora: “Treme o quê, dotô?”.
+Fiat liberado, num sol de Sobral ao meio dia, meus bolsistas tiveram uma aula inesquecível de solidariedade e inteligência com o mestre bugueiro… que escafedeu-se, rumo da venta, sem dizer sua graça!
+Dessa lição de sabedoria nativa, solidária e humana fiquei a pensar na ruma de vaidade, prepotência e egoísmo que nos permeia, a nós, terráqueos-sapiens, o cotidiano. Melhorar o mundo pra quê mesmo, hein? Imigrante, que se lasque no mar, fi’uma égua teimoso! Sem teto, que se fod@, vagabundo! Messiânicos (ricos), que solapem (impunes) seus (pobres) fiéis… e a grana Adeus! Lesbianos & gays, que se escondam, ora bolas! Negros, que morram nos porões, e se desintegrem! Periferias, que fiquem sem água … pra lavar as mãos (álcool-gel? haha!)! É o Darwinismo Social a nos impregnar … desses de estocarmos avidamente suprimentos, legitimando a “lei do Gerson”, acelerando o caos! É cada um por si. “Quem for podre que se quebre”!
+De repente aparece um vírus “embriagado” e tudo se (des)conecta. O que era dos outros agora também é nosso! o problema agora é plural, coletivo. Aí, no “Dia que a terra parou”, o planeta se tornou mais nativo, solidário, humano… ou não! Diz aí, Raulzito!
+
+
+A Volta dos que Não Foram
+Imagine um cenário de mercado onde uma Empresa X (nada a ver com o Eike) contrata
+profissionais que foram treinados por outra Empresa Y. Deixando de lado (just a
+minute) questões éticas, provavelmente a empresa Y faria algum esforço para mantê-los, de modo a não “alimentar o inimigo” (artigo O POVO, 23/06/17).
+Esse “obvio ululante” (by Nelson Rodrigues) parece não preocupar países socialmente
+em “desenvolvimento” (SIC) como o Brasil, que tem a oitava economia mundial
+baseada em commodities. Ah! Repúblicas de bananas não têm uma endogenia
+próspera, embalada que são por políticos que frustram mais do que o impeachment do
+Trump.
+Sem arrodear pelas beiradas, é incompreensível não percebermos e/ou nada dizermos
+sobre a fuga de cérebro que acontece debaixo do nosso nariz. Na perda recente, por
+ex., de um pesquisador top do IFCE Arac*ti para a Google em Munique, nem a
+Instituição, nem os empresários locais, nem os governantes fizeram a simples
+pergunta: “meu fi, num quer ficar aqui, não? Tá indo simbora por quê?”.
+No passado eu ouvia: se avexe não, Prof Mauro! “Esse cabra vai, mas volta. Duvido ele
+esquecer o doce de leite da vó Chiquinha, as tertúlias no Maguari, pegar jacaré na
+Praia do Náutico, …”. Pois é! Muitos formados com bolsas do CNPq/CAPES não
+voltaram. Ou seja, Empresas X (os de fora) se deram bem num negócio onde as
+Empresas Y (os de casa) nem perceberam… mas financiaram com seus impostos!
+Mas de repente, percebi que a coisa piorou. Além de muitos não terem voltado e
+outros continuarem indo, tem mais uma novidade. Profissionais, mestres e doutores,
+formados pela Empresa Y, para melhorá-la e torná-la mais competitiva, estão
+fortalecendo a concorrente Empresa X, de uma forma diferente: eles não vão voltar
+pra casa da vovó, nem pras tertúlias, nem pra praia… porque nem foram! Não
+precisam mais sair de casa! São contratados para trabalhar num tal de “romiofis”
+(home office). Ou melhor, saíram… mas não foram. Digo, não voltam porque nem
+saíram… Sei lá!
+Só sei que o contribuinte aqui fez as contas e não gostou. A fuga de cérebros não
+parou! Ficou mais sofisticada. Afinal, os grandões digitais não perdoam: pagam!
+
+Sorvete, ética e “fake news”!
+Corrupção, traição, apropriação indevida e agora… “fake news” ! São
+temas, dentre outros não bem digeridos, que afloram em tempos de eleição,
+quando políticos esgulepados “rebolando no mato” a famigerada ética.
+Paulo Bonavides, de quem tive o privilégio intangível de iniciá-lo no bê-abá da internet, nos socorre com seu pensamento douto proferido em palestra magna para juízes no Recife, cidade de Suassuna, Gilberto Freire e Alceu, mas que também se destaca com o Porto Digital, o “Vale do Silício” nordestino.
+Decreta Bonavides: “Onde há ética há valor… A ética, os valores e os
+princípios fazem, em verdade, a dignidade constitucional da pessoa
+humana”. Desde Platão, vem a ideia de que o único caminho para a ética
+política é a educação do povo. Já Sócrates, mestre de Platão, queria que os
+jovens pensassem com senso crítico, participando dos problemas do
+Estado. Enquanto Platão sonhava com uma sociedade ideal, Aristóteles, seu
+discípulo, mais cético, propunha que a Lei deveria ser capaz de
+compreender as limitações éticas do ser humano, …com ficha limpa,
+suponho!
+Enquanto políticos brigam pelo poder e escancaram maus exemplos de
+ética em tempos de eleição (e também fora deles), o IFCE Arac*ti e a
+Faculdade Vale do Jaguaribe fazem o contraponto com o Projeto Sorveteria
+Zé de William. Literalmente, uma geladeira com picolés exposta no pátio
+destas instituições de ensino. Nesse projeto pedagógico, estudantes podem
+se servir, se assim o desejarem, e pagar o picolé (R$1,00) sem nenhum
+controle pessoal ou eletrônico. Há, para tanto, um acordo implícito, em
+harmonia com o pensamento de Bonavides e, de imediato, bem
+compreendido pelos estudantes: “Onde há ética há valor!”. Os resultados
+deste projeto são animadores, tendo sido, recentemente, motivo de
+publicidade do Colégio Ari de Sá, no jornal O POVO.
+Será que nossos atuais políticos pagariam o picolé na Sorveteria Zé de
+William se colocada nos corredores das câmaras, das assembleias, do
+congresso? Imagine que legal seria a manchete: “todos os picolés foram
+pagos pelos políticos”. Ah! Aposto que você iria achar que era mais uma
+“fake News”.
+
+Quando a República das Bananas alimenta o inimigo
+O transistor impactou o século passado, do radinho transistorizado (mais popular que
+Biotônico Fontoura) às estações espaciais. Com ele, a internet/web do genial Tim
+Berners Lee promoveu qualquer beradeiro com um celular no coldre a Zé Doidinho nas
+redes sociais (ou não parece bizarro terráqueos andando cabisbaixos no maior papo com
+suas rapaduras eletrônicas?).
+Inteligência Artificial (IA) é a bola da vez. Ela já está em todas: nas propagandas que nos
+chegam “coincidentemente” na tela, no reconhecimento de voz, nas plataformas ditas
+cognitivas (Watson da IBM, por ex.), nos diagnósticos de “whisk and bowl” (escambáu,
+em cearensês) a partir de Big Datas. Estamos na era dos Jetsons (ou será dos
+Flintstones?).
+Elon Musk, o cara que venceu a NASA, considera a “IA mais perigosa do que a Coreia do
+Norte”. Embora haja uma certa lombra na ilação de Mr. Musk, ela serve de alerta para
+o perigo do açambarcamento da IA por oligopólios digitais: Google, Facebook, Amazon,
+etc. Os recentes escândalos das Fake News, dos robôs russos nas eleições americanas e
+na votação do Brexit no Reino Unido provam nossa vulnerabilidade. Ou você acha que
+o nosso próximo presidente não terá o voto da mão invisível do mercado … russo?
+As gigantes da internet contam ainda com a colaboração inocente-útil de países como o
+Brasil. Dou um exemplo: lembro bem, nos anos 80, a Microsoft levando para os EUA a
+reca de mestrandos em IA da UFC. Enquanto a mídia comemorava, eu me sentia um
+Mozart abraçado por Salieri: imaginava nossos queridos “nerds” fortalecendo as
+heroicas empresas locais de TIC. Que nada: mais “bananas” para quem nos vende
+tecnologia a preço de ouro!
+A fuga de cérebros não parou! Os grandões digitais não perdoam: compram! Nosso país,
+craque em “doar” cérebros, precisa de políticas de inovação capazes de manter nossos
+talentos na terra e bons exemplos não faltam: o Porto Digital no Recife que concilia
+política pública e mística institucional, o extraordinário programa EMBRAPII nos
+Institutos Federais, o estímulo à interiorização da pesquisa da FUNCAP, etc.
+Necessitamos mais, muito mais, para nos tornarmos uma República do Conhecimento e
+pararmos essa mania de alimentar o colonizador!
+
+Uma Tarde Com Sócrates… e Meus Alunos!
+“Trocaria toda a minha tecnologia por uma tarde com Sócrates! (Jobs)“
+Steve Jobs, o “cara” da Apple, deixou este recado para as escolas: “trocaria toda a minha
+tecnologia por uma tarde com Sócrates”. Este velho sábio, conhecido em todas as nossas
+escolas (será?), não deixou nada escrito, mas nos legou um modelo, foi o “cara” do diálogo.
+Sócrates via o ato de educar como o desenvolvimento da capacidade de pensar, um processo dialético que conduz (ou deveria) à essência da escola… de uma Escola Pra Valer!
+Será que nossas (conservadoras) escolas têm encarado a sério esta invencionice socrática
+(base das metodologias Ativas)? Os professores de nossas escolas “levam este papo cabeça”
+do Mr. Jobs no cotidiano com seus alunos? Afinal, a Escola existe para melhorar o mundo.
+Para isso é preciso melhorar o homem. Educar significa “trazer pra fora” num ato
+transformador. É ajudar o jovem a decidir bem a construção da sua própria história. Para tanto, ele precisa reconhecer-se capaz e sentir, na solidariedade ao outro, o mantra do He-Man: “Eu tenho a força!”. Por isso, uma Escola que é reflexo da sociedade não serve a ela… nem pra ela!
+Educar Pra Valer é aprumar “no rumo da venta” o poder do jovem no presente, na perspectiva do futuro, “essa astronave que tentamos pilotar” (Toquinho). Presenciei esse poder em um projeto social realizado por meus alunos. Os “meus meninos” organizaram um teatro em uma escola da periferia onde os alunos desta escola eram os atores. Um dos atores, meio acabrunhado, me chamou a atenção. Dei “uma de Xuxa” e na intimidade de uma cutucada no cangote dele, perguntei ao mais “nvo artista” do bairro se ele tinha gostado do teatro.
+Encruado mas com uma voz leve de rouxinol, ele respondeu: “Foi massa, fessô. Deixei de ir prum assalto pra vir prêsse negócio aqui!” Estatelei durante alguns segundos! Foi uma das minhas maiores experiências em Educação ouvir aquele garoto que não imaginava os megatons de sua fala: “deixei de ir prum assalto pra vir prêsse negócio aqui!”.
+Em seguida, olhei para meus alunos, diretores daquele teatro… que imitava a vida… que imita a arte. Lembrei-me da música do Gil onde o super-homem muda o curso da história para salvar a namorada. Naquela tarde de sol, meus alunos tinham mudado o curso da história daquele “jovem ator”, evitando que ele participasse do assalto, talvez matasse, talvez morresse.
+Se Jobs, ao trocar sua tecnologia por uma tarde com Sócrates, expressou-lhe a grandeza em metáforas a frase do garoto não é menos digna de filósofo das “trocas”.
+Talvez Sócrates tivesse trocado toda a sua filosofia por aquela tarde com meus alunos.
+
+Viver é Melhor que Sonhar!
+Nunca dei muita trela para esses livros de autoajuda! Até porque entre Augusto Cury e
+Zeca Pagodinho, prefiro “deixar a vida me levar”. Mas eis que nessas viagens demoradas
+a pão e água, cai-me da mão ao lado “O Poder do Agora”, um best seller de Eckhart Tolle,
+professor da Universidade de Cambridge, recomendado pelo New York Times (e pela
+banca do Bodinho, Pça do Ferreira).
+Cartões de crédito parecem usar os mesmos princípios de semiótica e sociologia destes
+livros. Por exemplo, o slogan “porque a Vida é Agora” é usado pelo VISA para nos
+estimular, orçamento abaixo, a um consumo desenfreado de fazer corar qualquer
+cheque azul!
+Reconheço que o Prof Tolle me surpreendeu. Ao lê-lo, vi meu perfeccionismo virginiano
+(aquele que sofre ao ver um quadro torto na parede) cobrando erros do passado, a
+vaidade de beradeiro projetando o futuro. E o presente, cara pálida? Reclama Tolle em
+seu livro, um calhamaço desembestando página abaixo o mantra: nossa mente a nos
+ocupar com o sofrimento do Passado e a angústia do Futuro, escanteando o Agora. “Se
+você está deprimido, tá no passado; está ansioso, tá no futuro; se está em paz, tá no
+momento presente”, ensina-nos também Lao Tzu.
+Fiquei a coçar como esta “filosofia do Agora” poderia ajudar nossos jovens. Temos uma
+juventude muito estranha para alguns pais, trancada em seu mundo, como sinaliza a
+psicopedagoga Cassiana Tardivo em seu artigo “Filhos do Quarto” que viralizou nas
+redes sociais. Digo em “Escola Pra Valer” que o aluno nos percebe mais pelo que
+fazemos do que pelo que dizemos. No contexto de Tolle, seria o Agora dando um “banho
+de cuia” no passado e no futuro.
+Dr Tolle, segundo Ricardo Lenz do IFCE, não tem lá muito de original. Santo Agostinho,
+no século IV, já aludia ao tema com os desmantelados da fé: “O que fazia Deus antes de
+fazer o céu e a terra?”. Aos aposentados de espírito, dizia ele: “O mundo é um livro, e
+quem fica sentado em casa lê somente uma página” (ou na vibe do Rauzito: nada de
+ficar com a boca escancarada, cheia de dentes esperando a morte chegar).
+Enquanto Tolle e Agostinho se entendem (passado), fico com o nosso poeta
+renascentista do Mucuripe: viver (presente) é melhor que sonhar (futuro)! E você?
+
+Um milímetro sequer!
+Se tu és jovem demais e passa a vida eguando no celular, conversando miolo de pote no lugar de ficar ouvindo “A head Full of dreams” (Coldplay) e “I still haven’t found what I´m looking for” (Bono Vox), acho que não vais gostar deste artigo… (prefiro o Bono).
+Se tu já és um militante crescido, também não vais entender “um milímetro sequer” do artigo. Na conversa aqui não tem essa de Alvinegro X Tricolor, Coxinha x Mortadela, muito menos cristão x ateu. A “vibe” aqui é jogar futebol, política e religião pra debaixo do tapete, pois tem uma visita muito importante chegando.
+Estás ainda aí, cabra da peste? Desististe (segunda pessoa é osso) não, mah?
+Deste assunto aqui, só entendem os “passados na casca do alho”, aqueles que deveriam ter gasto mais tempo com os filhos, encontrado mais os velhos & indispensáveis amigos, escutado mais LPs do Chico & Noel nas noites de sexta, (re)lido mais Drummond & Borges nas tardes de sábado, beijado mais ao acordar nas solidárias (ou solitárias) manhãs de domingo.
+Já que tu não desgrudas mesmo, diz-me aí o que devo falar a ela, que está chegando esperançosa. Devo falar dos homens de preto que roubam do povo e destilam discursos sórdidos na TV? Deste povo sofrido governado por um Temeroso mau exemplo? Da pobreza de quem morre bilionário e esquece que toda a soberba um dia se esfarela? Ou seria prudente fazer como o pai de Sidarta Gautama (Buda), o rei que tentou esconder de seu filho os moribundos da cidade, os sofrimentos do mundo?
+Não! Ela vai chegar numa varinha de condão; Alice neste país. Chega ansiosa por uma sociedade melhor. Suas mãos mágicas, rápidas, sábias e belas serão mãos de educação… antes que perguntes o que ela vai ser quando crescer.
+Ah, Thaissa, “guerreira gloriosa”! E quando um outro precisar de ti, desdenharás do mais fácil e honrarás gloriosa tua essência guerreira, pois que tu és dona de teu destino comandante de tua alma!
+“Sonhar-te-ei doze rosas, mil poesias, uma canção de ninar… sem aflição, nem
+compromisso… Sonhar-te-ei até não mais saber… tu não vais perceber um milímetro sequer deste infinito amor!”
+
+IFCE, inteligência e rapadura!
+Esta eu sempre conto em sala de aula. Um amigo meu, ao entrar no metrô na
+Finlândia, apura a vista em uma placa: ”local de passagem livre para quem não pode
+pagar”. Aí resolve perguntar à funcionária se alguns que poderiam pagar não
+“abusavam” da passagem livre. Ela, surpresa, responde: “por que alguém faria isso”?
+Somos um país nocauteado na moralidade por políticos que desfilam suas Samsonites
+propinadas com 500 mil (primeira parcela). Estamos de joelhos em nossa autoestima,
+quando o presidente da República é cumplice de marmotas com empresas e de
+negociatas no Congresso. De quem é a culpa?… De todos nós que votamos em
+“amigos” e defendemos ideologias políticas que se confundem com interesses
+pessoais (tu né assim não, mah?).
+Porque somos como somos? Tomara que a geração de minha neta Raiz se livre da
+gambiarra do jeitinho brasileiro, de “levar vantagem em tudo”, lute contra injustiças
+que não a atinge, troque “cordas” que enforcam sonhos pelas que salvam, levantam,
+erguem!
+A saída? Educação de qualidade! Na mesma Finlândia, 87% dos adultos concluem o
+ensino médio. Seus estudantes são campeões do PISA, teste internacional que avalia
+leitura, matemática e ciências (recentemente, o Brasil amargou a 66ª posição em
+matemática entre 72 países avaliados).
+Mas existe um “túnel no final da luz”! Neste rumo da venta, educação de qualidade é o
+que não falta no IFCE. A exemplo de milhares, sou grato a esta “casa de excelentes”
+onde fui aluno, atleta, professor, coordenador e diretor geral. E é dela que trago boas
+notícias: por 4 vezes em setembro os alunos do IFCE arac*ti pagaram todos os picolés
+(“por que alguém não faria isso”) na sorveteria Zé de William, um projeto criado em
+2003 onde se paga sem fiscalização…  bolsa paga por um empresário, via Embrapii, representa a venda de à moda “político de Helsinque”. Ainda mais!
+Nos projetos do Polo IFCE/Embrapii, as bolsas de pesquisa são financiadas por
+empresas que confiam na inteligência local. Há um simbolismo forte nisso, tal qual um
+livro comprado em uma livraria: uma“conhecimento” em uma cidade do interior que, até então, só vendia “rapadura”.
+Foi com educação de qualidade e vendendo conhecimento que a Finlândia conseguiu
+chegar lá, na contramão do apartheid educacional e da economia de “rapadura”. Este
+modelo é também combatido por este fantástico IFCE que hoje completa 108 anos.
+Ei, Seu Nilo Peçanha (1909), valeu hein!
+
+Ah, se eu fosse milionário…
+Como qualquer beradeiro dos anos 1970, tempo em que os jovens acreditavam numa
+política decente, comprei todos os discos LP (vinil) da MPB e dos Mestres. Desde
+então, o violino de Vivaldi e a sanfona de Seu Luiz, filho de Januário, me cutucam feito
+a espada mágica de Merlin em Excalibur.
+Vivaldi tem algo de inebriante. Abri minha última aula com “Inverno”, minha preferida,
+antes d´eu falar em bits e bytes. Um professor acaba levando à sala um pouco de sua
+alma momentânea. Afinal, a aula é uma arte que imita a vida… ou será o contrário?,
+diria Oscar Wilde!
+Perguntei a meus alunos o que fariam se fossem milionários. Já tava meio sorumbático
+com as respostas, até que o Nicodemos quebra a corrente, “o mundo sou eu”, e se
+lembra do Bill Gates. Em 2000, Gates deixa a Microsoft e cria uma Fundação que
+promove pesquisa sobre a aids e outros massacres aos irmãos da África. Em
+2006, Warren Buffett, outro mais rico do mundo, contribui com US$ 30
+bilhões, apoiando a Fundação do “concorrente”. No século 18, John Harvard lega a
+metade do seu patrimônio ao que viria a ser a primeira universidade americana.
+Por que no Brasil nossos bilionários não fazem parecido? Cultura, educação ou
+ganância? Basta reparar numa noite estrelada do Cosmos de Carl Segan e perceber
+que somos o “cocô do cavalo do bandido” na imensidão Láctea. Acumular, acumular,
+acumular… Diga aí, mah, algo mais besta do que morrer bilionário? Quem se livrou do
+“fogo dos infernos” e do negócio da “vida eterna” sabe bem: nada mais divino do que
+melhorar a vida do outro! Quem são os nossos Gates, Buffetts e Havards brasileiros… e
+os cearenses?
+Eu me faço esta pergunta sempre que um jovem esquelético limpa o vidro do meu
+fusquinha 4×4, esfomeado à cata de míseros centavos que, via de regra, costumamos
+negar com a empáfia de um dedo indicador feito limpador de para-brisa. Quantos
+destes jovens, “estrelas cadentes” imundas ao léu, seriam cidadãos de bem se a
+soberba bilionária os iluminasse, feito a magia de Vivaldi?
+Quanto custa a um bilionário dar ao jovem de rua a mesma oportunidade dada pela
+“Dama do Lago ao Rei Arthur”, sua nobreza, a chance divina de um jovem de rua
+retirar a espada cravada na pedra, sua dignidade!
+Ei, e você aí, o que faria se fosse milionário?
+
+“Modéstia às favas”, Gilmar Mendes pagaria o picolé?
+Nadar no mar de Canoa me acalma o espírito! Foi o que fiz de imediato quando Dona
+Gelita, 97 nos couros, teve uma pilora (diabeisso?) de baixar hospital. Enquanto fazia a
+estrada Canoa-Mucuripe, a ansiedade de encontrá-la bonita & joiada se inebriava, em
+minha cocuruta, ao Netflix de sua vida: seu cuidado com o rebento; sua casa próxima à
+Assistência Municipal, de mesa farta aos comensais; seu sorriso airoso de lavanda
+Johnson; uma mãe sapiens num seriado sem fim.
+Divagações holísticas fizeram-se fortes como as marés de ano novo no calçadão da
+Beira-mar. A saga de Dona Gelita me levara a matutar sobre as oportunidades que nós
+alunos, professores, juízes… perdemos de melhorar o mundo. Afinal, a vida é efêmera
+(ou não) e inexorável (ou sim). E nos surpreende a cada momento.
+Com efeito, na semana anterior tínhamos comemorado no IFCE arac*ti algo singular:
+pela primeira vez todos os picolés da Sorveteria Zé de William foram pagos pelos
+alunos. Explico: nessa sorveteria, inventada pelo Engº José William da Coelce, em
+1974, o aluno pega o picolé e paga R$1,00 sem fiscalização alguma, nem eletrônica,
+nem pessoal.
+Paradoxalmente ao fato, na sexta-feira, 9 de junho, enquanto os alunos frente à
+Sorveteria honravam sua Escola, o presidente do TSE nocauteava seu País. Sua “obra
+de demolição progressiva do respeito público pela Justiça usa o escárnio agressivo
+como arma do facciosismo … joga no lixo provas de tribunais superiores” (Jânio de
+Freitas, Folha 15/06/17). Foi um trágico 4×3 (de enrubescer qualquer 7×1) na
+contramão de uma Justiça/MP/PF ousada que, de forma inédita na “terra brasilis”,
+colocara bandidos do andar de cima na mesma gaiola dos ladrões sem colarinho
+branco.
+Coitado deste doutor das letras que se fez aprendiz da moral ao perder a fantástica
+oportunidade de pagar “seu picolé” diante de plateia tão carente de alento… “pátria
+mãe tão distraída/sem perceber que era subtraída/ em TEMERbrosas transações”. (Ah,
+página infeliz de nossa história… Vai passar, né, Seu Chico?)
+Em tempos de corrupção, a Escola é a solução! É a frase que os alunos na Sorveteria do
+inesquecível Doutor Zé de William legaram ao esquecível Doutor Gilmar Mendes. O
+tempo lhe fará justiça… “modéstia às favas” (SIC, by Gilmar)!
+
+“Bença”, pai! Tá pegando fogo …
+(Este artigo foi publicado no jornal O POVO em 20 de maio de 2017)
+Saudade de você, meu velho! Seus netos vão bem e Dona Gelita continua espirituosa
+aos 97. Ela inventou agora de mudar a reza: “Salve o Brasil, mãe misericórdia, bendita
+doçura…”. Apesar da coisa pegando fogo, os políticos continuam “jogando futebol,
+com muito samba nosso dinheiro e rock’n’roll”. Lá se vão as últimas, pai:
+Alimentação: a “Carne é Fraca” ou o boato era forte? Na dúvida, o Presidente tinha
+levado embaixadores para uma churrascaria (uruguaia, pense!). Era o governo da
+piada pronta! Agora, virou o governo da cabeça pronta … pra guilhotina (charge O
+POVO 19/05/17).
+Espionagem: Eduard Snowden, porta-voz da Google, revela que foi tudo brincadeirinha
+e que os EUA jamais grampearam a Dilma. Palavra do Trump… com aval do Putin!
+Dizem até que o Temer ao “proteger” o Cunha quis imitar o Trump “protegendo o
+“Flynn”. Afinal, o que é bom para os EUA é bom para o Brasil… Hum!
+Facebook: apesar de muitos esquecerem o mandamento número um das redes sociais,
+“não postarás com um copo à mão” (Leando Karnal que o diga), elas estão cada vez
+mais autênticas e instrutivas! Excelentes para o ENEM.
+“Educasão”: tá melhorando. Basta olhar as redes sociais. “Há turma forão a treis mez
+atrás, menas vez dava pra mim ir, mais vai dá serto” (jogo dos 15 erros).
+Militantes: estão ficando cada vez mais tolerantes! Poste uma crítica nas redes sociais
+que eles ouvem, interpretam bem, dialogam numa boa sem lhe rotular… seu “coxinha
+mortadela” abestado.
+Economia: Lembra da Petrobrás criada pelo Getúlio, pai? Continua sendo nosso
+orgulho no exterior… dando lucro a JBS! O “petróleo é nosso”… e Pasadena também!
+Policiais: Por outro lado, pai, no seu tempo rico e político não iam pra cadeia! Parece
+que o Marcelo Odebrech, Eike Batista, Cunha e o Cabral concordam não.
+Arrependidos, estão até pensando em criar uma ASFP – Associação sem fins
+Propinativos. É pagar pra ver!
+Lembro, meu pai, que o senhor também contava boas histórias do Liceu do Ceará, do
+Colégio Batista, da Escola Técnica, lugares por onde o senhor passou, Escolas de onde
+o senhor acreditava sairia um Brasil melhor, Escolas Pra Valer !
+Por isso é que… desisto é po**a! “Eu sinto os passos de outro Brasil que vem aí, mais
+tropical, mais fraternal, mais brasileiro”, dito pelo Gilberto Freyre em … 1926.
+Abração no poeta do Mucuripe chegando por aí. “Bença”, pai!
+
+Por quem os políticos dobram ?
+(Este artigo foi publicado no jornal O POVO em 30 de nov de 2016)
+É fim de madrugada. A linha que separa o mar e o céu, lá longe onde a terra quebra,
+sustenta nuvens que saem de dentro do infinito. O sol matinal se anuncia um tanto
+apressado, como quem foge pela janela da amante. O frescor do vento alisa meus
+cabelos feito mãos de noiva na véspera. O cheiro de maresia à tarde me embriaga de
+paz, tal colo de mãe, dilatando meu sorriso Kolynos (Ah!). O som da maré é meu
+mantra preferido. Abro os olhos. O dégradé da noite revela-me amores esquecidos,
+enquanto jangadas solitários espreitam, em vigília, a enseada violentada pelo neon dos
+bares do Mucuripe. Ora direis, Augusto Pontes: “Vida, vento, leva-me daqui”!
+Caminho pés na areia, encontro o casal de alemães e sua sacola de “mercantil” cheia
+do lixo deixado na praia pelos contumazes. Mais à frente, Mestre George me espera
+para uma prosa em sua jangada. Suas velas, prontas para o take off, explodem ao
+vento como a felicidade dentro de mim. De longe, Mestre George já me aponta para
+seu amigo Manolin: lá vem o professor! Fico impressionado com seu vigor ao levantar
+os troncos que rolam a jangada até o mar. Quanta coragem nos 5, 10, 40 km mar a
+dentro! E quando a velhice não mais lhe permitir o peixe nosso de cada dia?
+Mestre George tem em grande conta todo professor. E me elogia tanto que chego a
+ter “pena de mim”. Não imagina que não nasci para o ofício. Que sou do tipo de levar
+vantagem em tudo (lei do Gerson). O meu descaso com o contribuinte chega ao ponto
+d´eu fazer greve e ficar em casa. Arrodeio alunos que me parecem complicados. Passo
+logo todo mundo pra não ter prova final. Na verdade, eu gosto da escola é nas férias.
+Se pudesse nem daria aula… tou nem aí!
+Decidi contar ao Mestre George que nem todos nós professores somos quem “o
+imperador do Japão referenciaria”. Corri manhã seguinte ao seu encalço. Mas …! Uma
+multidão agitada, feito pinguins ansiosos, aguardava esperançosa seu barco que
+teimava em não chegar. Quis chorar a perda do mestre mas me contive, pareceu-me
+banal. Na noite anterior um ministro chorara a perda de um apartamento na Bahia… e
+o pouco que restara de sua reputação.
+
+Esta eu sempre conto em sala de aula. Um amigo meu, ao entrar no metrô na Finlândia, apura a vista em uma placa: ”local de passagem livre para quem não pode pagar”. Aí resolve perguntar à funcionária se alguns que poderiam pagar não “abusavam” da passagem livre. Ela, surpresa, responde: “por que alguém faria isso”?
+Somos um país nocauteado na moralidade por políticos que desfilam suas Samsonites propinadas com 500 mil (primeira parcela). Estamos de joelhos em nossa autoestima, quando o presidente da República é cumplice de marmotas com empresas  e de negociatas no Congresso. De quem é a culpa?… De todos nós que votamos em “amigos” e defendemos ideologias políticas que se confundem com interesses pessoais (tu né assim não, mah?).
+Porque somos como somos? Tomara que a geração de minha neta Laís se livre da gambiarra do jeitinho brasileiro, de “levar vantagem em tudo”, lute contra injustiças que não a atinge, troque “cordas” que enforcam sonhos pelas que salvam, levantam, erguem!
+A saída? Educação de qualidade! Na mesma Finlândia, 87% dos adultos concluem o ensino médio. Seus estudantes são campeões do PISA, teste internacional que avalia leitura, matemática e ciências (recentemente, o Brasil amargou a 66ª posição em matemática entre 72 países avaliados).
+Mas existe um “túnel no final da luz”! Neste rumo da venta, educação de qualidade é o que não falta no IFCE. A exemplo de milhares, sou grato a esta “casa de excelentes” onde fui aluno, atleta, professor, coordenador e diretor geral. E é dela que trago boas notícias: por 4 vezes em setembro os alunos do IFCE arac*ti pagaram todos os picolés (“por que alguém não faria isso”) na sorveteria Zé de William, um projeto criado em 2003 onde  se paga sem fiscalização… à moda “político de Helsinque”.  Ainda mais! Nos projetos do Polo IFCE/Embrapii, as bolsas de pesquisa são financiadas por empresas que confiam na inteligência local. Há um simbolismo forte nisso, tal qual um livro comprado em uma livraria: uma bolsa paga por um empresário, via Embrapii, representa a venda de “conhecimento” em uma cidade do interior que, até então, só vendia “rapadura”.
+Foi com educação de qualidade e vendendo conhecimento que a Finlândia conseguiu chegar lá, na contramão do apartheid educacional e da economia de “rapadura”. Este modelo é também combatido por este fantástico IFCE que hoje completa 108 anos.
+Ei, Seu Nilo Peçanha (1909), valeu hein!
+
+Imagine uma noite tinindo de boa, pessoas que você gosta de ver, palavras que lhe fazem bem ao espírito, energia no ar. Pois bem, foi assim a lançamento do Anuário do Ceará 2017-2018, a publicação mais antiga do Estado, uma realização O POVO com as digitais de Fábio Campos e Jocélio Leal.
+Ilustradas com o primor de 11 obras belíssimas de Carlus Campus, a tecnologia Big Data conferiu mais inovação a esta edição aliando …“a nobreza do conteúdo impresso e a presteza da internet”.  E, como não podia deixar de ser, este novo Anuário de 150 anos tem a cor de Demócrito Dummar, um Don Juan das ideias fartas e humanas, arquétipo com “alma de poeta, audácia de visionário, radicalmente humano” (O POVO, 25/04/2008).
+Demócrito era definitivamente novidade, impulsivamente holístico, inevitavelmente envolvente. Demócrito era disruptivo!  Com ele que aprendi cedo esta terminologia, hoje em moda para designar um tipo de inovação que supera a evolutiva, como o Big Data e Mineração de Dados, usados na produção do Anuário.
+Demócrito sempre recebia os amigos com um abração por cima do ombro, e os conquistava com seu sorriso abastado em recorrentes sonhos, coloridos com a ousadia de sua inventiva… tal qual a filha, estonteante em sua noite festiva. Dava para sentir a fidelidade à tradição, vindos do punho daquela mulher que martelava no ar sua convicção, feito um cônsul romano. Disse Luciana Dummar: “Este país só vai renascer através da educação… O Anuário é a liga que une as diferenças”.
+Antes de partir, cumprimentei Dummar Neto. Nosso abraço demorou mais do que nossas palavras! Disse-me ele: meu pai colocava uma “lanterna” sobre pessoas, projetos, instituições que julgava relevantes. Foi o caso do IFCE que implantou, com sua cumplicidade, diversos projetos sociais: Escola 24 horas (aulas na madrugada), a Sorveteria Zé de William (pagamento do picolé sem fiscalização), Escola Fora da Escola (alunos em projetos sociais nos bairros), o Pirambu Digital, cujo primeiro presidente tornou-se Engenheiro e aluno do mestrado do ITA, etc.
+Foi uma noite memorável, simbolizada pelos “estudantes correspondentes” do projeto O POVO Educação que, a convite do Governador, subiram radiantes ao palco.
+Sem ninguém perceber (nem eu próprio), fiz um discurso que só me dei conta ao chegar em casa: “Não dá pra imaginar o Ceará sem o jornal da Aguanambi 282”. Na verdade, todos se disseram o mesmo nesta noite de muito sol!
+
+Este artigo foi publicado no jornal O POVO em 15 de julho de 2017
+Como qualquer beradeiro dos anos 1970, tempo em que os jovens acreditavam numa política decente, comprei todos os discos LP (vinil) da MPB e dos Mestres.  Desde então, o violino de Vivaldi e a sanfona de Seu Luiz, filho de Januário, me cutucam feito a espada mágica de Merlin em Excalibur.
+Vivaldi tem algo de inebriante. Abri minha última aula com “Inverno”, minha preferida, antes d´eu falar em bits e bytes. Um professor acaba levando à sala um pouco de sua alma momentânea.  Afinal, a aula é uma arte que imita a vida… ou será o contrário?, diria Oscar Wilde!
+Perguntei a meus alunos o que fariam se fossem milionários. Já tava meio sorumbático com as respostas, até que o Nicodemos quebra a corrente, “o mundo sou eu”, e se lembra do Bill Gates. Em 2000, Gates deixa a Microsoft e cria uma Fundação que promove pesquisa sobre a aids e outros massacres aos irmãos da África. Em 2006, Warren Buffett, outro mais rico do mundo, contribui com US$ 30 bilhões, apoiando a Fundação do “concorrente”.  No século 18, John Harvard lega a metade do seu patrimônio ao que viria a ser a primeira universidade americana.
+Por que no Brasil nossos bilionários não fazem parecido? Cultura, educação ou ganância? Basta reparar numa noite estrelada do Cosmos de Carl Segan e perceber que somos o “cocô do cavalo do bandido” na imensidão Láctea. Acumular, acumular, acumular… Diga aí, mah, algo mais besta do que morrer bilionário? Quem se livrou do “fogo dos infernos” e do negócio da “vida eterna” sabe bem: nada mais divino do que melhorar a vida do outro! Quem são os nossos Gates, Buffetts e Havards brasileiros… e os cearenses?
+Eu me faço esta pergunta sempre que um jovem esquelético limpa o vidro do meu fusquinha 4×4, esfomeado à cata de míseros centavos que, via de regra, costumamos negar com a empáfia de um dedo indicador feito limpador de para-brisa. Quantos destes jovens, “estrelas cadentes” imundas ao léu, seriam cidadãos de bem se a soberba bilionária os iluminasse, feito a magia de Vivaldi?
+Quanto custa a um bilionário dar ao jovem de rua a mesma oportunidade dada pela “Dama do Lago ao Rei Arthur”, sua nobreza, a chance divina de um jovem de rua retirar a espada cravada na pedra, sua dignidade!
+Ei, e você aí, o que faria se fosse milionário?
+
+Nadar no mar de Canoa me acalma o espírito! Foi o que fiz de imediato quando Dona Gelita, 97 nos couros, teve uma pilora (diabeisso?) de baixar hospital. Enquanto fazia a estrada Canoa-Mucuripe, a ansiedade de encontrá-la bonita & joiada se inebriava, em minha cocuruta, ao Netflix de sua vida: seu cuidado com o rebento; sua casa próxima à Assistência Municipal, de mesa farta aos comensais; seu sorriso airoso de lavanda Johnson; uma mãe sapiens num seriado sem fim.
+Divagações holísticas fizeram-se fortes como as marés de ano novo no calçadão da Beira-mar. A saga de Dona Gelita me levara a matutar sobre as oportunidades que nós alunos, professores, juízes… perdemos de melhorar o mundo. Afinal, a vida é efêmera (ou não) e inexorável (ou sim). E nos surpreende a cada momento.
+Com efeito, na semana anterior tínhamos comemorado no IFCE arac*ti algo singular: pela primeira vez todos os picolés da Sorveteria Zé de William foram pagos pelos alunos. Explico: nessa sorveteria, inventada pelo Engº José William da Coelce, em 1974, o aluno pega o picolé e paga R$1,00 sem fiscalização alguma, nem eletrônica, nem pessoal.
+Paradoxalmente ao fato, na sexta-feira, 9 de junho, enquanto os alunos frente à Sorveteria honravam sua Escola, o presidente do TSE nocauteava seu País. Sua “obra de demolição progressiva do respeito público pela Justiça usa o escárnio agressivo como arma do facciosismo … joga no lixo provas de tribunais superiores” (Jânio de Freitas, Folha 15/06/17). Foi um trágico 4×3 (de enrubescer qualquer 7×1) na contramão de uma Justiça/MP/PF ousada que, de forma inédita na “terra brasilis”, colocara bandidos do andar de cima na mesma gaiola dos ladrões sem colarinho branco.
+Coitado deste doutor das letras que se fez aprendiz da moral ao perder a fantástica oportunidade de pagar “seu picolé” diante de plateia tão carente de alento… “pátria mãe tão distraída/sem perceber que era subtraída/ em TEMERbrosas transações”. (Ah, página infeliz de nossa história… Vai passar, né, Seu Chico?)
+Em tempos de corrupção, a Escola é a solução! É a frase que os alunos na Sorveteria do inesquecível Doutor Zé de William legaram ao esquecível Doutor Gilmar Mendes. O tempo lhe fará justiça… “modéstia às favas” (SIC, by Gilmar)!
+
+Enviado pelo meu amigo prof Hiago
+Vejam com atenção este fantástico espetáculo:
+1) onde estão presos os sinos?
+2) onde estão sentadas as mulheres da orquestra?
+3) e, por fim, onde estão presas as mulheres que flutuam,… onde estão os cabos?
+
+mauro
+Mauro
+
+
+
+
+Grande abraço
+Abraço
+Abraço
+
+
+ 
+07:00 h : Nadando no mar da PRAIA DO IDEAL (para tirar a ressaca … e começar outra)
+09:00 h: Tomando Café da Manhã no MOANA (Beira Mar 4260, Mucuripe)
+11:00 h: A Primeira Cerveja no ALPENDRE ( Rua Torres Câmara, 11111 – Aldeota)
+13:00 h: Contando as Mesmas Piadas (sem graça) na BARRACA ARPÃO (Praia do Futuro)
+16:00h: Começo de tarde no BAR DO ARLINDO (Rua Carlos Gomes, 83 – Bairro de Fátima)
+18:00 h: Por do Sol no LAR DOCE LAR (Golden Fortaleza – Beira Mar 4260, Mucuripe)
+20:00 h: Começo de Noite na BARRACA GUARDERIA (Praia do Futuro)
+24:00 h: Chutando o Pau da Barraca no TOCANTINS (sei lá o endereço…mas sei onde é)
+05:30 h: Caldo de Caridade no ROQUE SANTEIRO (antepenúltimo bar da Abolição, s/n)
+GOSTOU DA PROGRAMAÇÃO? POIS CONFIRA PORQUÊ … ELA VAI ACONTECER ! 
+ 
+
+Os barcos do Mucuripe  silenciam sobre o mar, calmo feito um tapete obediente, acostumados que são. Como nós, as vezes…
+Procuro desejos esquecidos … ! Não consigo alcançá-los…!  Minha alma clama, então, não sei bem porquê,  pelo …
+O SAL DE PORTUGAL
+Ao caminhar em tuas calçadas, do Tejo à Torre de Belém, senti acelerar cada vez mais forte meu peito esquerdo, o pulsar sem me fazer prevenir,  de um marujo ao partir na caravela a desbravar, tal um  amor inesperado. Senti forte teu vento a desafiar meu  rosto, o teu sol a me dar o gosto de sal …  o SAL de Portugal.
+Ó SAL !
+SAL do mar,
+Do mar de Portugal.
+SAL que me faz,
+Refaz origens,
+Faz-me firme em terras minhas.
+SAL de um PORTO seguro, de um sangue puro, da minha alma inocente!
+SAL das entranhas da caravela a desbravar todo um mar. Todo o mar, todo o mar …
+SAL inquieto que me jaz bem em Belém.  É o SAL que me convém.
+Que não me quer todo paz. SAL da onda forte que me faz além.
+É o SAL da partida, encrostado no casco. É o SAL de  Pedro e Vasco.  Sou grumete de Pinto e Nina.
+É o Infante a me prometer uma missão.  (“… e o acaso a me proteger!”)
+É a fada a me dedicar o fado da separação.  (é o sim, é o não)
+É a tormenta que não amedronta, me excita. (que me faz, que me desfaz)
+E o mundo em explosão dentro de mim. (sou eu, … sem ser)
+É a volta de minha história parida. (aí, terra que também é minha)
+É o meu chão reconhecido.
+Eis-me em teus braços, Portugal, no prazer de tuas estrelas exclusivas,
+A reeditar tua historia. A redizer tua gloria!
+Eis-me todo tua, minha Portugal. Do Alantejo à Viana
+A reeditar tua glória. A redizer tua história!
+A bordo todos os meus sonhos e amores,
+Do Porto ao Açores, posto que sou contumaz …
+Eis-me teu sal.
+Sal do teu mar
+De um mar único,
+Gaivotas a revoar
+O mar de Fernando.
+E se um dia me levares, Ó mar
+Envolto no véu de tua magia
+O vento com gosto do teu SAL
+Estrelas fazem da noite meu dia
+Vindo da energia de um mar
+O mar de Portugal.
+
+TÕ ACREDITANDO NÂO… Alisson Nogueira, direto de Ottawa, sotaque diferente, cabelo aparentemente pintado, calça Faroeste, perfume Atkinson… FALA Pedão…
+
+Mauro, meu amigo, a festa vai ser só virtual mesmo? Onde vai ser o levantamento de copos? Abracao, Pedro
+
+Agora PENSE num cara que eu queria com genro. Segundo ele, só tem 5 qualidades: rico, inteligente, bonito, sexy e… MODESTO.
+Com vcs o meu AMIGÃO Bené Herzog. FALA BENÈEEEEEE …
+
+Grande Mauraoooooo
+O abraco saudoso a voce que eh do peito.
+Segura essa poeta:
+“O tempo passa? Não passa no abismo do coração.
+Lá dentro, perdura a graça do amor, florindo em canção.
+…
+Não há tempo consumido nem tempo a economizar.
+O tempo é todo vestido de amor e tempo de amar
+…
+Além do amor, não há nada, amar é o sumo da vida.
+…
+e o teu aniversário é um nascer toda hora…
+…
+não tem idade pois só quem ama escutou o apelo da eternidade.”
+Pois eh, eh do Drummond de quem dizes nao gostar muito. Quica na paz de Canoa possa rever essa posicao com a calma devida, para quem nao tem idade.
+Meu amigo fique com tudo que eh de melhor.
+Muita paz, saude e felicidades
+E que o melhor, incrivelmente, ainda esteja por vir
+O abraco
+
+“Neste hoje /estou em graça/por tudo que fiz/pelo que ainda não fiz. 
+Quero brindar contigo/neste hoje de festa/tudo o que já sorriu/e o que ainda não sorriu! “
+.
+Meu caro amigo, da minha LISTA de AMIGOS
+Este negócio de NÃO festejar aniversário é coisa de quem tá com o nome (injustamente, é claro) no SERASA (eu já paguei a última) ou, então, tá com “dor de amor” (sou vacinado!) ou, então, adora o poder (eu, hein!).
+Como agora estou morando em Canoa Quebrada (), vendo o sol acordar, nadando 1000 m todo dia, tomando café com tapioca, aprendendo violão, trabalhando só de tarde, celular e email só depois das 10:00 h,
+… SEI NÃO; MAS TOU ACHANDO A VIDA CADA VEZ MAIS LEGAL.  NÉ NÃO ?
+Por tudo isso, e por outras, gostaria de convidá-los para a minha FESTA de ANIVERSÁRIO ELETRÔNICA.
+Para receber o convite e a programação, basta CLICAR EM 
+Grato pela sua presença (ELETRÔNICA) no meu NIVER.
+
+DATA DA PALESTRA: DIA 28 DE MARÇO DE 2012
+LOCAL DA PALESTRA: AUDITÓRIO do Centro Dragão do Mar de Arte e Cultura
+HORÁRIO DA PALESTRA: das 19h às 20h 30min.
+INSCRIÇÕES POR TELEFONE: (85) 1123488-8639
+
+O Prof João Jornal Gomes Soares, o famoso francisco lucas (meu amigo e irmão), inventor do Ginga (TV Digital brasileira), o principal resposável pela “cultura” de redes de computadores no Brasil, chega hoje a Fortaleza para uma palestra na INFOBRASIL (Centro de Convenções), as 17h.
+A entrada é livre e todos estão convidados.
+Grande abraço
+ps.: vou levar o pandeiro pq com o francisco lucas tudo pode acontecer… inclusive nada !!!
+
+
+A entrevista do Karlos Lenz César nas páginas azuis de “O Povo” é algo que todos que lidam com estudos científicos deveriam ler. Não só estudantes e professores, mas, principalmente, nossos governantes, que têm a responsabilidade de dar condições materiais para que os cientistas brasileiros possam contribuir para que nosso país consiga dar um salto de qualidade na Educação, Ciência e Tecnologia.
+Fiquei muito contente e emocionado ao ler tal reportagem, eu que vi o Karlos pequenino, frequentando as reuniões sociais que seus pais, Quimero e Zulda ofereciam para nós do Departamento de Física da UFC, e também frequentando os laboratórios de nosso Departamento.
+Estamos de parabéns, nós cearenses, pelo fato de termos um conterrâneo entre as estrelas da ciência nacional e mundial. Parabéns ao Karlos, bem como a seus pais, Quimero e Zulda.
+J. F. Julião – Físico e Pesquisador do CNPq junto ao PADETEC
+
+Em entrevista publicada no jornal O Povo dessa segunda-feira (16/01/2012), o ex-aluno da antiga Escola Técnica, hoje IFCE, o cientista Claudio Lenz Cesar fala sobre “DEUS e o UNIVERSO: AS RESPOSTAS DA CIÊNCIA”.   Veja a reportagem completa em: 
+
+Atendendo a um convite da Luizianne (feito a mim e aos demais 3 milhões de fortalezences), estaremos amanhã (31/dez), às 22h:
+Até lá
+ps.: Confirmem sua reserva. Só restam 10.000 lugares !!!
+
+Em entrevista publicada no jornal  desta segunda-feira (31/10), o professor e pesquisador da PUC-Rio, João Jornal Gomes Soares, responsável pela criação do GINGA, middleware do sistema brasileiro de TV digital, defende a inclusão social através da interatividade nas televisões.
+Leia a seguir a íntegra da entrevista:     
+LF tem uma certeza: somente com a efetiva implementação da TV interativa no Brasil, as classes D e E terão a oportunidade da inclusão digital. “Só 3% da população destas classes têm acesso a computador e 84% nunca usaram um computador e nunca tiveram acesso a Internet na vida”, revelou
+
+Sobre a sua vida: 
+“Ser o homem mais rico do cemitério não me importa… Ir para a cama à noite dizendo que fizemos algo maravilhoso… isso é o que importa para mim.”
+
+Sobre a sua vida: 
+“Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa. Não fique preso pelo dogma – que é viver pelos resultados do que outras pessoas pensam. Não deixe o ruído da opinião dos outros afogar a sua voz interior. E o mais importante, tenha a coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar. Tudo o mais é secundário.”
+
+Prezados amigos!
+Não tem jeito mesmo. Dia de aniversário é sempre um dia especial. Agradeço a gentileza de vocês nos quase 1000 acessos ao nosso site (apenas 990, segundo a polícia) durante o dia de hoje em que curtimos nossa amizade, via  RUI – Radio Uirapuru de Itapipoca, essa fantástica metáfora que fez sucesso na rede BRASNET nos anos 90.
+Conforme previsto na programação, faço agora um BRINDE (20h) na certeza da amizade que me chega manifesta em tanta alegria percebida no dia de hoje.
+MUITO GRATO… Tudo AZUL !!!
+
+ANTES DE ENTRAR NO AR…
+PUSANFA TARDE: Viu só, mulher, o sucesso da RUI ? Quase 900 acessos hoje! Vamos passar de 1000! Aposto minha capanga de couro da ZARRÓ, made in China!
+MAURO PACATUBA: Nada de “sapato alto”. A RUI já foi mais famosa. Essa é audiência de NIVER. Duvido que ela consiga manter-se toda sexta, como em 1993…
+LUÃ: UI, ai que susto, parece uma … mas  é uma BARAAATA. Desculpe pessoal. Pensei que fosse… É UMA BARAAATA sim! Tou passada. Vou SIMBORA pra casa.
+MP: Aqui é serviço publico não, abestado! Deixa de marmota. É bom parar logo com essa esquisofrênia baratal compulsiva. Lasca logo Baygon e volte jájá pro trabalho.
+ATENÇÂO, 5,4,3,2… NO AR ! RUI, de Itapipoca para o Mundo …
+SOU MAURO: Pediu…Tocou! Só sucesso. Atendendo a pedidos musicais ao Cabralzin Melo da UFRJ, do compadre Jovino da Anatel, do Benedito Medeiros do Minicom, e do Bringel de Paris (ETA QUE A RUI TÁ INTERNACIONAL), solta aí, Agnaldo, esse clássico da MPB, que é SÓ sucesso na ARGENTINA:
+ 
+MP: Saia logo desse armário! Faça logo o teste pra saber se você é um AF (Famíliar) ou um AG (Gandaia). Afinal, só você fica sabendo.
+Lembrando (RUI das 13h) que …
+– O AF, verdadeiro, no dia que resolve ir a um motel, ele o faz com a legítima esposa… passa antes em casa pra pegar o pijama e antes de sair, deixa tudo arrumado na suite !
+– O AG autêntico é aquele cara que é capaz de telefonar pra mulher e dizer, seriamente, convicto, “FALA AMOR DA MINHA VIDA”,… sentado no colo da secretária!
+Vamos lá, então – PARTE 1: (pra desinibir)
+Faça a contagem de pontos. No final veja se você é um AF/AG enrustido ou assumido.
+1.  SEU PROGRAMA SÁBADO A TARDE
+2. ANIVERSÁRIO DE CRIANÇA
+3. VOCÊ E A SANTA SOGRINHA
+4. BAR DO PIRATA
+4. QUANDO VOCÊ CHEGA TARDE EM CASA
+ 
+
+“Amigo não é substantivo! São verbos em uma canção !” (antonio barbosa)
+Dona Gelita, a matriarca, na opinião do meu amigo Bruno, é uma grande figura!
+Versão moderna da Cinderela, diz ela que foi conquistada pelo Seu Mauro com uma aliança que NÃO coube no dedo das “concorrentes” …
+Mais detalhes? Só lendo a história abaixo!
+1. CINDERELA do PARQUE das CRIANÇAS
+– Mamãe, como foi a senhora conheceu o papai?
+– O Mauro tinha acabado o noivado. Chegou na repartição prometendo casar com a colega cujo dedo coubesse na aliança da “finada”.
+– Parece até a história da Cinderela. E então, a senhora aceitou o teste?
+– É claro que eu recusei aquela besteira do Mauro. Fui embora. De repente, no Parque das Crianças eu ouço um vozeirão atrás de mim: GELITA, GELITA, GELITA !!!
+– Fantástico! E depois, o que aconteceu?
+– Depois? Tou olhando pro depois,… são vocês!
+2. É NADA !!!
+– Mamãe, vamos passear no Piramba?
+– Hoje não, Tonho! Amanhã eu vou…
+– Não minta, mamãe. Mentir é pecado.
+Dona Gelita, que sempre respondia na bucha, desta vez pensou trinta segundos, arrebitou os beiços e disse com determinação: É NAAADA !!!
+3. QUANTA FALSIDADE
+Descansava eu no colo de Dona Gelita, após o saudável “golpe do fogão”, quando minha pestana é incomodada com a troca de lantejoulas entre minha secretária e mamãe. Eu sonolentamente reagi brincando:
+– Ah, meu Deus! Quanta falsidade …
+De bate pronto Dona Gelita respondeu:
+– É mesmo,…mas se não fosse assim a vida não tinha graça!
+4. SEM A PRÁTICA
+– Mamãe, a senhora não quer casar comigo?
+– Aceito, meu filho. Mas sem a “prática”!
+5. TOU VENDO TUDO
+Já com a vista encolhendo, mamãe descobre um antigo “caso” de um dos filhos, vasculhando a conta telefônica. Neste ínterim, chega o Juninho, dentista da maior qualidade, e vai logo perguntando:
+– Vovó, como é que tá a vista?
+– É Juninho, NÃO tou enxergando nada!
+E olhando pro filho “pego em flagrante”, ela emendou: – Mas tou VENDO tudo. 
+6. E A VIDA … ?
+O QUE È A VIDA, DONA GELITA? Sei não! É um dom, a vida? Sei não …
+UM BOM MOMENTO DO PASSADO: Meu marido, o Mauro.
+A MAIOR TRISTEZA: Eu sem o Mauro,
+O QUE TÀ ERRADO NESSE MUNDO: Nada, tá tudo certo! E tem alguma coisa errada?
+O QUE A SRA ACHA DOS POLITICOS? São bons. Mauro gostava do JK.
+O QUE A SRA FARIA SE FOSSE PRESIDENTE DO BRASIL? Diminuia a fome, sei não…, melhoraria o salario de todos e fazia todos estudarem. A saude é o principal !
+O QUE A SRA DESEJA PRA 2012? Mais saude, mais paz, sei não…! Paz.
+QUAL O SEU TIME? Não sou politica não! (?)
+PRINCIPAL LEMBRANÇA? Gostava de tudo! A Vazante do meu pai em Itaiçaba. Lembro muito do trabalho dele. A casa do tio Manelzinho. Meu pai. Lembro meu pai!
+7. SUA POESIA PREFERIDA … 
+UMA LUZINHA ENTRE COQUEIROS
+Ai! Me alembro tanto seu menino / que dá uma dor danada de dor:
+a negrada no alpendre da Casa de Farinha /esperando uma luzinha entre coqueiros!
+E ele que não chegava na sua rural…/ a mundiça não podia ver uma luz,
+qualquer luzinha entre coqueiros…/a canaia gritava logo: “lá rem ele”!
+Era uma correria desenfreada alpendre abaixo / Ah! Como a gente adorava a enganação.
+Mais uma luzinha que vinha…e se perdia / e com ela a esperança dele chegar cedo.
+Lembro tio Manezin, touca na cabeça, camsolão, lamparina na mão, alpercata de rabicho, chão batido, (os óio franzido por detrás dos óculos de garrafa) berrava sem convicção, enquanto também espiava mais uma luzinha que aparecia entre coqueiros:
+“rão dromir magote. Ele só chega menhan de menhan”!
+Ai! Me alembro tanto seu menino / que dá uma dor danada de dor.
+Entre grilos, cururus, vagalumes…/ O tempo parou naquele 24 de dezembro:
+na minha mente só havia uma luzinha / a promessa de presentes, zoada, galinha assada… que desaparecia entre coqueiros!
+Uma luzinha trazendo sobretudo um cheiro / cheiro de suor, suor do peito, da camisa,
+camisa empoeirada da estrada carroçal / um cheiro gostoso de bom! / O cheiro de papai!
+ACORDA NEGRADA!… PAPAI CHEGOOOOOOOOOOOUUU !!!
+ 
+ANTES DE ENTRAR NO AR…
+SAMARTE: Seu Pacatuba, tá todo mundo dizendo que a Dona Gelita tá chateada porque o senhor não mandou nenhuma música pra ela ainda. As Cartolinas também.
+MAURO PACATUBA: Tá bem! Pode começar o programa com a música preferida dela.
+LUÃ: UI… já sei até qual é. É a aquela que tocaram na varanda dela com violino …
+MP: Tá bem, tá bem, bando de puxa-sacos. Esse amor todo é só porque Dona Angelita tá financiando a RUI. Capitalismo selvaaaaaaaaaaaagem …
+ATENÇÂO, 5,4,3,2… NO AR !
+SOU MAURO: Atendendo a  sete telefonemas (família), cinco emails (LF, Paulo Cunha, Lenz, Myrson, Macedo), um FAX (ex-namorado da repartição), vamos apresentar a música preferida da Dona Angelita.
+
+SOU MAURO: PEDIU… TOCOU! Atendendo aos pedidos musicais de
+MP: Samarte, vamos explicar para os ouvintes da RUI o que é um AF e o que é um AG.
+SOU MAURO: AG, Gandai, Geral, Genial, …, é aquele cara que legal, extrovertido, feliz da vida, gasta mais do que tem (geralmente não sabe o que tem), sempre encontra uma saida quando troca o nome das namoradas repetidas vezes. O AG autêntico é aquele cara que é capaz de telefonar pra mulher e dizer, seriamente, convicto, “FALA AMOR DA MINHA VIDA”,… sentado no colo da secretária no escritório, champagne à mão e um anel de diamantes (falso, naturalmente).
+MP: Bom..Humm…ok! E o AF?  O que é um AF verdadeiro, pedra 90?
+SOU MAURO: O AF, verdadeiro, original de fábrica, é aquela cara que é tão organizado, mas tão organizado que .. NO DIA que resolve ir a um motel, ele o faz coma legítima esposa… MAS antes passa em casa pra pegar o pijama, não usa a JAKUZI por razões ecológicas (gasto de água). PAGA o motel em dinheiro (pra não deixar rastro em caso de arrependimento) e, antes de sair, arruma a cama e leva o lixo pro carro pra jogar no mato … jamais no apartamento onde mora!
+MP: Ok…Então estão abertas as inscrições para o teste do AG e do AF.
+
+ANTES DE ENTRAR NO AR…
+SAMARTE: Ei, seu Pacatuba, tou ficando cansada desse trabalho na RUI. Queria tanto um emprego que eu nem precisasse ir lá todo dia, mas recebesse meu salário todo final de mês.
+MAURO PACATUBA: Quer arranjar um bico no Assembléia, diz logo Samarte! RAMO trabalhar de verdade senão esse estado não sai do “confortável” 2% do PIB.
+LUÃ: UI… que eu também quero um emprego na SEMBLEIA. Tou me aprendendo INGREIS e TILOGRAFIA pra ser “o cara” das ZINFORMATICAS. Precisa nem de CONCURSIO!
+MP: Tá bem, mas enquanto vocês não são “convocados como soldados heróicos” da nação, que tal colocar essa rádio pra funcionar. PAU na RADIOLA, seu Agnaldo…
+AG: Ui …
+ATENÇÂO, 5,4,3,2… NO AR !
+SOU MAURO: Pediu … dançou, digo, Pediu … Tocou (devia não ter bebido hoje, dia de NIVER!).
+Vamos atender pedidos musicais do super João Hiluy, conhecido na brenhas da banlieue Parisiense como JAOZUZÉ.  Ele pede, encarecidamente (é o novo !) uma música para a linhagem imperial abaixo:
+Que tal essa, JÂOZUZÈ 
+
+Pro meu AMIGO definitivo JAOZUZÉ, segue uma poesia que fiz pra minha Cerol:
+
+HOROSCóPIO: Signo de VILGEM com PUSANFA TARDE
+Você é VILGEM? De signo… Previsões com PUSANFA TARDE: não saia de casa sem uma sombrinha (é o novo), protetor solar e desodorante, o sol entra na sua casa astrologica garantindo um dia de muita luz. Hoje você receberá uma boa notícia: aproveite para apostar na Mega Sena. Marte e venus estão em sintonia, aproveite, peça uma música.Tudo é possível para você de VILGEM. Quer ver? Peça uma música. PEDIU…TOCOU !!!
+SOU MAURO: Pediu … Tocou: Pra Mijao Julião , Helen Gomes, Milena, Antonio de Fortaleza (bonito, inteligente, endinheirado, transa +ou- que dá pro gasto, e … modesto), vamos de Sarah Damasceno, aquela vizinha que na nossa adolescência nunca deu BOLA mas ajudou nas horas vazias …
+
+
+ANTES DE ENTRAR NO AR…
+PUSANFA TARDE: Ai, seu Pacatuba, tou bem não. Hoje tou meio assim… acabrunhada, com dor “nas coisa”! Uma vontade enorme de … NÃO SEI LÁ. Tou pior do que a torcida do Ceará ao ver o Fortaleza escapar da Série F e ganhar de 4×0, tudo no segundo tempo, pode? … Milagre, pois nem precisou usar a “mala” (ou não ?)
+MAURO PACATUBA: Eu te avisei que dor de amor é bicho danado! Tou sabendo que o teu namorado deu um cano, depois de merendar DE GRATIS uma semana na tua casa.
+LUÃ: É por isso que eu não me meto com esses BOFES da Aldeota! Sou mais o Raimundin lá do Bar do Zé Bezerra, no Otávio Bonfim. Pense num HOME … pra tocar bem.
+MP: Deixe de subtefúgios senvergonhosos, seu Agnaldo. RAMO deixar de conversa fiada e começar logo o programa. Tem pedido musical de gente importante. Lasca Samanta !!!
+ATENÇÂO, 5,4,3,2… NO AR !
+SOU MAURO: Aqui, PUSANFA TARDE. PEDIU…TOCOOOU.  Não tem CORÈ CORÈ, NEM CHORO BAIXO! Solta logo aí o pedido do Dr Helano Castro. O HOME aqui é PRAIME (soletra-se PRIME). Dr Helano vem é quente, pedindo o Falção. É O NOSSO ÍDOLO!!!
+
+SOU MAURO: É hora da UTILIDADE PÚBLICA: Farmácia PAQUE MAIS OU MENOS, onde você pensa que paga mais, mas paga menos… e vice-versa:
+1. Pra MOROIDA: Vick Vaporub, duas aplicações antes de dormir. Alívio imediato. Casos avançados recomenda-se PÓ DE OURO (não cura mas fica JÓIA)
+2. Pra NEUVOSO: Chá de Cidreira misturado com Capim Santo. CUIDADO: Manter longe dos cinquentões que só cumprem o compromisso uma vez por mês
+3. Pra TOSS de BERCULOSO: Mastruz com Leite com Whisk Passport (Bell tb serve). No final do tratamento o cabra larga a tosse ms não larga o Whisk.
+4. Pra ASMO: Mel de Cupim com massagem nas costas. Nada de porrada… no início!
+5. Pra RUQUIDÂO: Cachaça com limão. Não resolve mas é bom que que danado.
+6. Pra DROR de CABEÇA: Cha de alho com alho, cuado na meia. Tão bom que Dona Gelita só lembrava de dar quando a gente fazia danação.
+7. Pra FREBE: Banho de ARCO, MIJANDO as partes interessante…lentamente!
+8. Pra MUIÉ DESREGULADA: Ler uma revista CARAS, só as fotos parecidas com você … tomando chazinho de Arueira, até se aquietar. IMPORTANTE: Proibido ler Playboooooy.
+AGRADECIMENTOS:
+Agradecemos os FAX enviados à RUI de todo o Brasil: MOREIRA (BSB), AURINEIDE , VALDEZ, VEVÉ do RIPASS, SANDRA MILK, ELIFAS (BSB), SAMUEL BRASILEIRO FILHO, meu irmão de leite, e do internacional WENDELL, na riviera francesa.
+
+ANTES DE ENTRAR NO AR…
+MAURO PACATUBA: “Quede” aquele teu namorado fuleiragem que “tu arrumou” no Bar do Papai, Samanta? EI… Quem roubou meu sanduba de carne muída que eu deixei dentro da gaveta? Aí meu pé, filho de rap… Era só o que faltava, esse estagiário na RUI. Tá faltando uma página do roteiro!
+PUSANFA TARDE: Quanto ao namorado, tou cuidando dele em casa. Uma gracinha, ele. Passa o dia dormindo (de noite é uma fera, precisa nem de REDBU). Agora, esse lance do papel, acho que foi o Agnaldo, o novo estagiário. Ele foi ao banheiro… sei não. Pergunte a ele!
+LUÃ: Jamais faria isso seu Pacatuba. Antes uma folha áspera de bananeira que prejudicar uma produção literária propedéutica e científica com um simples ato diapazonal fortuito e inevitável.
+MP: Diabeisso que deu nesse estagiário do SENAI. É o que dá fazer muitos cursos ao mesmo tempo, só pra colecionar certificados.
+SOU MAURO: Começa logo esse programa, seu Pacatuba, que eu ainda vou pra ZUG hoje!
+ATENÇÂO, 5,4,3,2… NO AR !
+MP: MARAVIIIILHA, como diz todo cearense depois de um final de semana no Rio! PEDIU…TOCOU, né PUSANFA TARDE?
+SOU MAURO: Pois não é que é, seu Pacatuba! RAMO que RAMO com o Roberto Carlos no tempo que ele fazia show no ROMEU MARTINS, o Gigantão da Itaoca (o mulheriu da Aldeota ia escondido de taxi, mas morrendo de medo de ser reconhecida). Ai meu Deus.São tantas EMOÇÔES…
+
+MP: E agora, Samanta? O que temos na parte cultural da TUI?
+SOU MAURO: Temos aqui, seu Pacatuba, um teste seu conhecimentos sobre a cultura brasileira. Valendo LPs do Balão Mágico, Moacir franco e Orlando Silva:
+SITUAÇÂO DELICADA: Um cidadão de bem encontra SUA (?) esposa “acidentalmente”, assim, meio sem querer, com outro cidadão (tb do bem) na SUA cama. Ouviu direito não? NA SUA CAMA, cara, sacou! o que você faria se você fosse um …
+RESPONDA NUMERANDO LÀ DE RIBA (nunca fez Mobral não, bicho do mato?)
+
+ANTES DE ENTRA NO AR…
+MAURO PACATUBA: Mulher, a RUI tá dando mais audiência do que o caso dos Banheiros, né?
+PUSANFA TARDE: Acho melhor o senhor não se meter a besta não, Seu Pacatuba. Tá vendo não, a turma querendo controlar a mídia! Deixa pra lá …  Tu achas que meu cabelo tá bem pro programa?
+MP: Tá bem como, abestada? Aqui é rádio. Tá na TV UNIÂO, não! Mas tá melhor do que a peruca do ex-ministro do Turismo, aquele que pagou as contas do motel com o cartão do governo.
+SOU MAURO: Dizem que o “vei” tremia tanto que errou a senha três vezes. Dizem também que quando a moça perguntou se era CREDITO ou DEBITO ele respondeu: tanto faz quem paga é a “viuva” MERMO!
+MP: “Ramo” parar de fofoca e AFUFA o fole, PUSANFA TARDE.
+ATENÇÂO, 5,4,3,2… NO AR !
+ALÔ GALERA JOVEM, pessoal da melhor idade (engana que eu gosto) e a turma endividada no cartão (agora peguei pesado com ou ouvintes da Aldeota).
+NO AR a sua, a minha, a deles… a RUI, a única rádio que não fala… mas é ouvida!
+Vamos arrebentar logo a boca do balão com o pedido da Raquel Barros, a super diretora da TV UNIÃO, a TV da juventude que deu SHOW de BOLA na transmissão de Brasil X Argentina, inauguração do PV.  A mulher é louca por música baiana. Solta ai um AÊ, AÊ, AÊ, …mas sem pressssssssssssssa !
+
+“A COR é uma ilusão de ótica. É só perguntar a um pingo d´água numa manhã de sol !” Essa é do Mauro, irmão amigo que partiu cedo pra outro planeta … sem nossa autorização, imagine! Mauro, como diz o Helano Castro, era um mais do que um livro. Sua amizade era poesia pura !
+Drummoniano militante, Mauro era apaixonado por Borges e Sartre. Mas nada dava-lhe tanto prazer quanto ouvir sua preferida: THE SOUND of SILENCE of LIVE
+ .
+Valeu Mauro! Como disse o poeta, você passou por essa vida e viveu …”pra caralho!”
+OPA !!! Acabamos de receber  do camarada Fidel Castro uma cesta de Café da Manhã Tropicalizada (?): rapaduza de caju, mel de jandaira, ovo de codorna, mastruz com leite, vinho de Catuaba… (Ô Fidel, isso é café ou remédio pros 60?)! Pode um negócio desse? Valeu Serjão. A gente se vê nas quebradas !!!
+Atendendo ao pedido do meu amigo Alexandre da IVIA (o melhor lugar pra se trabalhar, segundo a NASA), piloto de helicóptero, presença agradável, empresário de TI que orgulha esse estado. Taí o CHICO, passaaaaaaaaaaaaaando …
+ 
+É isso aí galera jovem! “O PERIGO É TER MEDO”,  já dizia o motorista de taxi da Lapa, no Rio, quando a Carolina perguntou se o lugar era perigoso. São 8h30 da matina no abençoado 20 de setembro, dia de SANTANTOIN que era o mesmo SAOFERNANDI.
+E a  próxima música da RUI vai pro Hiago Mendes Batista, sangue bom, pai exemplar. Segura outra do Milton, meu amigo pois a vida é uma TRAVESSIA:
+
+E pra Marciano Ponciano, um das fundadores do PIRAMBU DIGITAL, amigo querido do coração que ligou cedinho pra RUI, vai o meu abraço:
+ABRAÇO
+Neste hoje / Estou em graça / Por tudo que fiz / pelo que ainda não fiz!
+Quero brindar contigo / Neste hoje de festa / Tudo o que já sorriu / O que ainda não sorriu!
+Quero apenas te dizer/ Neste hoje em que posso / Do excitante desafio / de ser mais feliz!
+Neste hoje / Preciso do teu braço / Fraterno como se fosse / Possível acontecer!
+
+“ALÔ GALERA, cabras da peste e baitolas também! Aqui fala Mauro pacatuba, seu DJ eletrônico preferido, de Itapipoca para o Mundo”. 
+Foi assim que em 1992 (mais precisamente 4 de março de 1993) a Radio Uirapuru de Itapipoca (RUI) iniciava suas transmissões, via redes de computadores (X.25, Bitnet, etc) diretamente dos “estúdios” em Paris (minha sala na Universidade Pierre et Marie Curie), com o patrocínio do sabonete LAIFIBOY e Biotônico Fontoura com Emulsão de Scott, melhor do que óleo de RICINO (quem tomou jamais esquece).
+E o homenageado na RUI número 1 foi ele,… não poderia ser outro:  João Jornal, filho de Dona Dora, que 20 anos mais tarde inventaria uma tal de TV DIGITAL.Entonces, o LF mandou pra sua amada, I.H.M (ar de baiana, cabelo encaracolada, nem aí pro LF), a música EU CAÇADOR DE MIM do Chico … (todo mundo sabe que é do Caetano)!
+
+E assim nascia a RUI, reportagem da revista VEJA em 1993:
+
+Dentro de alguns minutos,  a sua, a minha, a nossa, RADIO UIRAPURU DE ITAPIPOCA.
+Faça seu pedido musical, mande sua mensagem para ELA que escafedeu-se e não quis mais saber. Veja seu horóscopo para hoje em que tudo vai dar certo. TUDO ISSO DENTRO DE ALGUNS INSTANTES na sua, a minha, a nossa, RADIO UIRAPURU DE ITAPIPOCA. E atenção 5, 4, 3, 2 …
+
+
+Gostaria de convidá-los para a minha FESTA de ANIVERSÁRIO ELETRÔNICA. Vou festejar meu NIVER ELETRÔNICO reeditando a RADIO UIRAPURU DE ITAPIPOCA (ver programação em anexo), a partir das 8h da matina.
+COMO FUNCIONARÁ o NIVER ELETRÔNICO ?
+Vou passar o dia todo na casa da Dona Angelita (92 anos) … só curtindo a vida no colo dela, levando cafuné (ver  )!!!
+Quem quiser dar “os PARABENS” (é o novo!) eletrônico e participar da festa virtual, tem que entrar no meu SITE (). É igual a um programa de rádio com auditório!
+Quem quiser ficar “SÓ OUVINDO” a RUI (tipo radinho transistorizado), pode acompanhar a festa pelo TWITTER  @mauro_Cartolinas.
+INTÉ …
+
+MARINA, … tu és o meu amarelo-laranja, o sol atrás da serra, TODO O CÉU ACIMA !!!
+Hoje, é o niver da minha MARINA. Segue a poesia ABC de MARINA
+
+
+MARINA, … tu és o meu amarelo-laranja, o sol atrás da serra, TODO O CÉU ACIMA !!!
+Hoje, é o niver da minha MARINA. Segue a poesia CerolINDAS
+
+
+MARINA, … tu és o meu amarelo-laranja, o sol atrás da serra, TODO O CÉU ACIMA !!!
+Hoje, é o niver da minha MARINA. Segue a poesia O REI da MINHA RAINHA
+
+
+MARINA, … tu és o meu amarelo-laranja, o sol atrás da serra, TODO O CÉU ACIMA !!!
+Hoje, é o niver da minha MARINA. Segue a poesia RODA GIGANTE…
+ 
+ 
+MARINA, … tu és o meu amarelo-laranja, o sol atrás da serra, TODO O CÉU ACIMA !!!
+Hoje, é o niver da minha MARINA. Segue a poesia O REI da MINHA RAINHA
+
+ 
+KATRINA, tu és meu verde, o sertão chuvoso…Todo o Céu Acima !!!
+
+Claudio Lenz, meu ex-aluno e amigo, é notícia na revista VEJA (31 de agosto 2011, pag 110) que selecionou 50 histórias de sucesso de pessoas que mataram idéias antigas e ajudaram a criar um novo mundo.
+PARABÉNS, Karlos Lenz !!! Estamos orgulhosos.
+
+MANHÃ de DOMINGO
+
+“É preciso dizer a todos os jovens que não há volta, não há cura. 
+É preciso tratar isso como uma coisa grave, … um crime bárbaro. Só sei, meu Deus, que é preciso fazer alguma coisa de verdade”, disse-me um pai desesperado!
+
+Clientes do BB passam a contar com um novo serviço. Será possível realizar transações bancárias e ter acesso aos serviços por meio do controle remoto da televisão. Trata-se do padrão DTVi (implementação do Ginga), voltado a negócios interativos.
+fonte: 
+
+“A COR é uma ilusão de ótica. É só perguntar um pingo d´água numa manhã de sol” (R.Mauro in TERRA do NUNCA)
+ 
+O artigo abaixo festeja os 10 anos do IA, uma cria do CPQD que acaba de comemorar 35 anos de existência.
+
+Poesias não são palavras que rimam.Poesia é o sentido que cada um dá a sua existência (Cerol Oliveira).
+
+Alane Damasceno entrevista João Jornal:
+
+O projeto Bila, Biblioteca Integrada à Lan House, da cooperativa Pirambu Digital, foi contemplada com o Prêmio Anu 2010, como a melhor iniciativa estadual. O prêmio é uma iniciativa da Cufa, Central Única das Favelas, que reconhece os projetos de sucesso realizados pelas comunidades do Brasil.
+
+Um país chamado Petrobras!
+Lula teria dito: “a Petrobras é tão grande que merecia ter eleições para seu presidente”.  Lulices a parte, com investimentos de R$ 250 bilhões até 2014, a Petrobras é a quarta maior empresa de energia dos terráqueos. Resultado de uma “canetada” histórica de Getúlio Vargas, em 1953, só a marca da Petrobras é avaliada em R$ 20 bilhões, pela BrandAnalytics.
+Lembro-me bem, na década de 90, do estereótipo do Brasil no exterior: o país do carnaval e do futebol. Passados 10 anos, alunos franceses me indagavam, curiosamente, sobre a Petrobras, já uma vedete energética do BRIC (Brasil, Rússia, Índia e China) antes mesmo do “fuzuê” no mercado causado pelo “Pré-sal”.
+Enfim, desembarca no Ceará a PREMIUM, uma refinaria da Petrobras que merece escrita “de cabo a rabo” em maiúsculo. Trata-se de um estado nordestino de R$ 21 bilhões (PIB Piauiense) se instalando no Pecém. Serão 90 mil postos de trabalho durante sua construção, garante o meu ex-aluno da saudosa Escola Técnica, Facundo Lutif, gerente da refinaria.
+A idéia de um Ceará, assim, cheio de energia muita, vem de Virgílio Távora que iluminou o Ceará com Lula Presidente, nos anos 60, a Tasso Jereissati que criou o complexo do Pecém. É de se considerar os esforços políticos de Inácio Arruda (também meu ex-aluno da Escola Técnica) e de Cid Gomes que, segundo corre à boca miúda no Becco do Cotovelo, andou até praticando tupi-guarani pra negociar com os Tapebas a instalação da refinaria.
+Na euforia, há de se cuidar dos efeitos colaterais. Seria de bom tamanho um Fórum ESpecial para a TransiçÃO (FESTAO) a ser engendrada por essa grande obra de engenharia que meu professor Jesamar Leão, Presidente “Honoris Causa” da Coelce, chamaria de “ponto de inflexão na história do Ceará”, enquanto o sertanejo do Arneiroz de Dona Lalazinha apelidaria de “uma coisa danada de boa ciscando”.
+Um “FESTAO”, então, para esse grande “PREMIUM” !
+
+Tablet, o último dos Moicanos!
+Comprou um tablet? O Galaxy ou o iPodão do Steve? Tanto faz, você acaba de comprar o “top” de um velho modelo (Von Neumann), o último de um conceito em extinção. O tablet é descendente do famoso PC (computador pessoal), essa “rapadura eletrônica” que vem colonizando nossas vidas desde a queda do império IBM (mainframes), nos anos 90.
+Nada de pânico! Você tem ainda, humm… 100 semanas (fez as contas, né?) pra curtir o seu tablet sem precisar resistir ao iPCd-2, o imPessoal  Computer  descartável (o 2 é só charme). É isso aí! Aquilo, que o chato com ar de inteligente (camiseta de Havard) chamará no boteco de “meu computador de última geração”, virá descartável, contextual e nas “nuvens”!
+O iPCd-2, uma interface de serviços “on-line” (processados a distância), será distribuída feito pipoca por provedores dos novos serviços, como hoje o fazem as operadoras com os celulares tipo P (os Pebinhas). Segundo, estes serviços serão adaptados às suas características ou contexto (context-aware), sensíveis ao seu perfil (pense no “lixo” que hoje obtemos da Internet). Terceiro, como a banda larga será igual a oxigênio, seus dados estarão “nas nuvens” (cloud computing), algo parecido com o Dropbox (). Quinto, sistemas inteligentes monitorarão 24h sua saúde, segurança, agenda, geladeira, etc., (Internet of Things) integrando tudo de relevante no iPCd-2. Ah! Ia esquecendo o quarto: o iPCd-2 será dobrável e responderá a comandos de voz com a mesma facilidade com que dedilhamos nosso tablet (ótimo pra quem tá na cozinha). Disponível em hotéis, repartições (é o novo!), escolas, etc., será só pegar, usar… e devolver! O iPCd-2 estará “novo de novo”!
+Enquanto os “Googles da vida eletrônica” não lançam o iPCd-2 (eu adoro o meu tablet), é lamentável pensar que a oitava economia do mundo é um desastre em inclusão digital. Que tal um bolsa-tablet? … VIXE!
+
+Instituto Atlântico, 10 anos de muito “Axé” na terra do Forró !!!
+Com o artigo “Quando o Forró venceu o Frevo”, saudamos, há 10 anos, a chegado do Instituto Atlântico (IA) ao Ceará.  Como o título insinua, o artigo fazia alusão à conquista alenMARINA ao atrair o IA para o nosso estado. Denominado estrategicamente CPQD, a época, a instalação do IA teve sua articulação liderada por Lenardo Castro e pelo então titular da SECITECE, o deputado Ariosto Holanda.
+A chegada do IA suscitou, naturalmente, tanto na academia quanto no mercado, algumas interrogações. Na verdade, o IA agregou duas destacadas contribuições à área de Tecnologia da Informação (TI) do Ceará. De um lado, o IA serviu de referencial na gestão de processos de desenvolvimento tecnológico, característica encravado em seu DNA herdado do CNPQ da antiga Telebrás.  Por outro lado, o IA estimulou reações desenvolvimentistas fortes no estado. Os empresários cearenses TI reagiram positivamente e formaram o Instituto Titan, logo em 2003. Criaram corpo também o ITTI do Instituto Federal do Ceará, o NATI da UNIFOR, e vários outros laboratórios de P&D em TI pertencentes à UFC e à UECE. Alguns desses laboratórios tiveram uma parceria inicial com o IA para, logo em seguida, passaram a formar suas estruturas próprias de gestão, facilitando-os a captar recursos da Lei de Informática, em especial, e se tornarem autônomos.
+A competente gestão de Hiago Bernal abriu caminhos para que seu sucessor, o não menos brilhante José do Atlântico (viche Maria! Pois não é que eu esqueci o nome do meu amigo Zé, frequentadores que somos do Pré-carnaval da Dona Mocinha). O Zé, com o apoio do Chico do Atlântico (acho que esses paulistas são filhos de cearenses),  transformaria o IA na primeira instituição do Norte e Nordeste a ter o respeitado CMMI-5 (Capability Maturity Model Integration), o nível máximo da certificação internacional de desenvolvimento de software, o mais importante do mercado.
+Passados 10 anos, é de se reconhecer que o IA e os seus parceiros cearenses (empresas Secrel, Avicena, etc., laboratórios LDS do IFC, LESC e GREAT da UFC, etc.) têm muito a festejar ao terem contribuído efetivamente para o desenvolvimento da TI no estado, projetando uma imagem positiva da competência cearense no setor, tanto de nossas instituições de ensino que formam seus técnicos, quanto a de pesquisadores envolvidos em seus projetos. Nesse contexto, vale lembrar também a participação do IA no consórcio cearense do Sistema Brasileiro de TV Digital (SBTVD), em parceria com a UFC, a UECE e o CEFET-CE.
+Se hoje, 2011, o “forró está vencendo o frevo” na corrida tecnológica de TI, bem,…  rhum-rhum (coceirinha na garganta)… há de se tirar o chapéu para a “grande sacada” do Porto Digital de Alane Damasceno, enquanto perseguimos no Ceará uma iniciativa semelhante. De repente, a questão não seria quem vence quem, “Forró, Frevo ou Axé” … (psiu, acreditas nessa? Eu não!). Talvez, mais relevante, é o fato do setor de TI do Nordeste crescer a taxas superiores à média nacional, liderado pela terra de Dodô & Osmar, aonde o IA se instalou recentemente.
+Sendo assim, como entre “forrozeiros, cirandeiros e Olodunistas” de TI estão salvando-se todos, só nos resta agradecer ao seu superintendente do IA, Claudio Violato, a significativa contribuição de uma década no desenvolvimento tecnológico na área de TI no Ceará.
+Parabéns a todos que fazem o IA, onde sempre fui muito bem tratado!
+
+Fausto, o Bloco do Prazer !!!
+A caminho do pré carnaval, encontrei Dorothy Lamour. Caminhamos pela enseada do Mucuripe, ombros dados, pés na areia, espuma ameaçando. Suas velas explodiam ao vento, tal a saudade dentro de mim!
+“Quando fevereiro chegar, saudade já não mata a gente. A chama continua. No ar, o fogo vai deixar semente, a gente ri a gente chora, fazendo a noite parecer um dia… O teu amor faz cometer loucuras.”
+A luz do sábado rasgava os céus da baía do Náutico, energizando meus sonhos adolescentes. Já no aterro do Ideal, o arco-íris acodia uma montanha de nuvens que saia de dentro do mar!
+“O azul de Jezebel no céu de Calcutá, feliz constelação. Reluz no corpo dela, ai tricolor colar ! Az de Maracatu no azul de Zanzibar, ali meu coração, zumbiu no gozo dela…”
+Em frente do Estoril, as ondas hipnotizavam ao beijar a areia, remetendo-me à lembranças das piscininhas de Iracema. Saltitávamos, braços dados, ao som do bloco do prazer:
+“Pra libertar meu coração, eu quero muito mais que o som da marcha lenta. Eu quero o novo balancê e  o bloco do prazer que a multidão comenta…. Vem meu amor feito louca que a vida tá pouca e eu quero muito mais.”
+O pôr-do-sol despencava da Ponte Metálica, desdenhando a velha briga do rochedo contra o mar!
+ “Atravessei os sete mares e por todos os lugares por onde andei você me dava a vida. Foi uma dádiva da natureza essa coisa acesa que hoje vejo em ti.“
+Chegamos, mãos dadas, ao Dragão do Mar. A lua bela holofotizava o planetário em vigília aos foliões dançando na praça.
+“Meu amor que ficou, nessa dança meu amor, tem fé na dança. Nossa dor meu amor, é que balança nossa dor, o chão da praça…”
+Mais que de repente, em meio a turbas e batucadas, descuidei-me milisegundos sua mão. Procurei-a faustivamente, como uma “caravana do deserto ao atravessar um coração”:
+“ Era miragem, fantasia de um mundo blues. E eu fui chorar na areia Dorothy Lamour”
+
+PRISÃO PERPÉTUA … NA IDADE DA PEDRA  
+Nesse domingo de sol, uma alegria diferente me invadiu, aproveitando o desleixo de um acordar desprevenido. Sem me consultar, acompanhou-me durante todo o dia. Encontrei amigos pelo caminho, entrei em suas casas sem avisar. Contamos piadas, das antigas, rimos com vontade rir! Sonegamos notícias tristes.
+Visitei Dona Gelita e nos abraçamos em suas lembranças. Deitei-me em seu colo “pena de ganso” e cochilei ao ritmo dos cafunés de seus dedos ferrolhos. Revi o livro de meu saudoso pai. Rolou um aperto no lado esquerdo, de um cheiro a mais que não lhe dei. Utilizando suspeitas teorias da física, tentei explicar o assobio do vento ao vibrar renitentes janelas; as crianças riram fingindo acreditar. Terminada a oração do dia, entre crentes e saudáveis salvaram-se todos!
+Li manchetes no jornal ao lado enquanto o farol vermelho cedia lugar ao verde. O sorriso da pobre senhora no sinal, com míseros centavos à mão, seguiu-me no retrovisor do carro, até desaparecer na curva! Pensei nas vezes que não nos damos conta da dádiva da vida que o sol nos anuncia toda manhã e nos chateamos com um “Colgate novo apertado no meio” pela mulher…ou vice-versa.
+Agradeci aos céus mais uma manhã de domingo, os amigos que tenho, a amizade de minhas Cartolinas! De repente vi um jovem com um andar sem rumo, perambulando ao encontro do nada. Era mais uma das milhares vítimas do crack, provavelmente a pior das drogas, por ser barata e trazer um dano brutal à saúde.
+Se você pertence à privilegiada classe dos que não têm nenhum dependente químico próximo, curta mais a vida, “sem muita frescura”. Faça isso pois alguns pais não têm esse direito dominical. Na verdade, traficantes e seus cúmplices hediondos condenam diariamente à prisão perpétua esses pais e suas crianças, quando não à pena de morte. É o crack a nos conduzir, ironicamente, à Idade da Pedra.
+
+O Despertar da Diferença numa manhã do Povo
+Pense naquele dia em que tudo dá errado, tipo uma manhã no Detran sem despachante. Agora imagine uma manhã tinindo de boa, pessoas que você gosta de ver, palavras que fazem bem ao espírito; tudo isso numa sexta-feira de sol. Pois bem, foi assim a solenidade de 83 anos do nosso jornal, o jornal do Povo.
+Dos corredores já dava pra sentir a determinação ante os desafios, embarcados na fidelidade à tradição, vindos do punho daquela mulher que martelava no ar sua convicção, feito um Consul Romano. Teria ela dito, com os trejeitos legitimados no DNA de Demócrito: “O POVO é uma casa de ousadias e alegrias”. “É a cumplicidade com o leitor”, completaria Valdetário, presidente da OAB.
+Foi bom demais! Vânia Dummar me colocou em dia seus projetos com os índios; Baltazar Neto fez piada com minhas muletas de aluguel; Nelson Martins disse-me de seus planos para o meio rural e perguntou-me sobre o Pirambu Digital; Ferrúcio sorriu-me como quem garante a Copa de 2014; abracei Ubiratan Aguiar, Judicael e Marcelino Pequeno; conheci a Manoella; convidei o Plínio, o Élcio e o Jocélio para uma festa lá em casa. Reverenciei o mestre Bonavides, meu aluno de informática por um dia (está no meu CV); tentei, sem sucesso, ser reconhecido pela Adísia Sá (mas valeu só ter visto a “Dama das Letras”). Estava radiante, como todos! Alvaro Maia, então, me intimou para uma carona amiga.
+Antes de partir, cumprimentei Luciana. Nosso abraço demorou mais do que nossas palavras!
+Não precisei dizer-lhe de Demócrito, que sempre nos recebia com um abração por cima do ombro, e nos conquistava com seu sorriso abastado em recorrentes sonhos, coloridos com a ousadia de sua inventiva,… tal qual a filha, estonteante em sua manhã festiva.
+Não precisei dizer-lhe: “Imagine o Ceará sem o jornal O POVO”. Todos o disseram naquela manhã de Sol !
+
+Instituto Atlântico, 10 anos de muito “Axé” na terra do Forró !!!
+Com o artigo “Quando o Forró venceu o Frevo”, saudamos, há 10 anos, a chegado do Instituto Atlântico (IA) ao Ceará.  Como o título insinua, o artigo fazia alusão à conquista alencarina ao atrair o IA para o nosso estado. Denominado estrategicamente CPQD, a época, a instalação do IA teve sua articulação liderada por Lenardo Castro e pelo então titular da SECITECE, o deputado Ariosto Holanda.
+A chegada do IA suscitou, naturalmente, tanto na academia quanto no mercado, algumas interrogações. Na verdade, o IA agregou duas destacadas contribuições à área de Tecnologia da Informação (TI) do Ceará. De um lado, o IA serviu de referencial na gestão de processos de desenvolvimento tecnológico, característica encravado em seu DNA herdado do CNPQ da antiga Telebrás.  Por outro lado, o IA estimulou reações desenvolvimentistas fortes no estado. Os empresários cearenses TI reagiram positivamente e formaram o Instituto Titan, logo em 2003. Criaram corpo também o ITTI do Instituto Federal do Ceará, o NATI da UNIFOR, e vários outros laboratórios de P&D em TI pertencentes à UFC e à UECE. Alguns desses laboratórios tiveram uma parceria inicial com o IA para, logo em seguida, passaram a formar suas estruturas próprias de gestão, facilitando-os a captar recursos da Lei de Informática, em especial, e se tornarem autônomos.
+A competente gestão de Hiago Bernal abriu caminhos para que seu sucessor, o não menos brilhante José do Atlântico (viche Maria! Pois não é que eu esqueci o nome do meu amigo Zé, frequentadores que somos do Pré-carnaval da Dona Mocinha). O Zé, com o apoio do Chico do Atlântico (acho que esses paulistas são filhos de cearenses),  transformaria o IA na primeira instituição do Norte e Nordeste a ter o respeitado CMMI-5 (Capability Maturity Model Integration), o nível máximo da certificação internacional de desenvolvimento de software, o mais importante do mercado.
+Passados 10 anos, é de se reconhecer que o IA e os seus parceiros cearenses (empresas Secrel, Avicena, etc., laboratórios LDS do IFC, LESC e GREAT da UFC, etc.) têm muito a festejar ao terem contribuído efetivamente para o desenvolvimento da TI no estado, projetando uma imagem positiva da competência cearense no setor, tanto de nossas instituições de ensino que formam seus técnicos, quanto a de pesquisadores envolvidos em seus projetos. Nesse contexto, vale lembrar também a participação do IA no consórcio cearense do Sistema Brasileiro de TV Digital (SBTVD), em parceria com a UFC, a UECE e o CEFET-CE.
+Se hoje, 2011, o “forró está vencendo o frevo” na corrida tecnológica de TI, bem,…  rhum-rhum (coceirinha na garganta)… há de se tirar o chapéu para a “grande sacada” do Porto Digital de Silvio Meira, enquanto perseguimos no Ceará uma iniciativa semelhante. De repente, a questão não seria quem vence quem, “Forró, Frevo ou Axé” … (psiu, acreditas nessa? Eu não!). Talvez, mais relevante, é o fato do setor de TI do Nordeste crescer a taxas superiores à média nacional, liderado pela terra de Dodô & Osmar, aonde o IA se instalou recentemente.
+Sendo assim, como entre “forrozeiros, cirandeiros e Olodunistas” de TI estão salvando-se todos, só nos resta agradecer ao seu superintendente do IA, Claudio Violato, a significativa contribuição de uma década no desenvolvimento tecnológico na área de TI no Ceará.
+Parabéns a todos que fazem o IA, onde sempre fui muito bem tratado!
+
+Desliga o celular, rapaz de Cobra!
+
+Simplesmente, LULA.
+
+Sou eu mesmo e NAO é bot
+
+Com CERTEZA nao é BOT.
+
+IMPOSSIVEL ser BOT.
+
+é BOT seu pacatuba
+
+Conhecer o metaverso no Iracema Digital.
+
+Metaverso
+
+Certa vez, quebrou-se um cano na BARCA. Não muito agradável RSRSRS.
